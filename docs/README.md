@@ -1,4 +1,8 @@
-<img class="no-border" src="img/ipc_logo_500.jpg" alt="International Paralympic Committee Logo">
+<p align="center">
+  <a href="https://paralympics.github.io/sdms-user-guide">
+    <img class="no-border" src="img/ipc_logo_500.jpg" height="250px" alt="International Paralympic Committee Logo">
+  </a>
+</p>
 
 # IPC Sport Data Management System User Guide - Version A
 
@@ -17,7 +21,7 @@ As the name suggests SDMS is an application the IPC uses for the management of a
 - IPC Team Uniform Inspection
 
 ## Getting Started
-Dive right into learning about SDMS [here](layout-and-functionalities/access) 
+Dive right into learning about SDMS -> [start here](layout-and-functionalities/access) 
 
 ## Quick Fix
 
@@ -41,8 +45,8 @@ For technical support, please send an email to [sdmsadmin@paralympic.org](mailto
 
 [Something super legally binding!]()
 
-!<-- TODO: Switch the document structure of the guide 
+<!-- TODO: Switch the document structure of the guide
 1. Put document-history into the introduction folder
 2. make the README.md file the first page
-3. add slightly more information to the repository's README file
+3. add more information to the repository's README file
 -->
