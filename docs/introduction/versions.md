@@ -8,4 +8,4 @@ Specific user groups of the application have access to a limited number of scree
 - **Version C** - Handling of classification data for Classifiers and IPC
 - **Version D** - Competition, Results, and Rankings for IPC
 
-Versions B to D have the same content structure as Version A for better cross-references, but unimportant sections are excluded for the respective user group.
+> Versions B to D have the same content structure as Version A for better cross-references, but unimportant sections are excluded for the respective user group.

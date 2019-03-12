@@ -1,8 +1,11 @@
-![logo](img/ipc_institutional_white_header.png)
+<img class="no-border" src="img/ipc_logo_500.jpg" width="150px" alt="IPC - International Paralympic Committee">
 
-# IPC Sports Data Management System User Guide
+# Sports Data Management System User Guide
 
 > Version A
 
 [GitHub](https://github.com/paralympics/sdms-user-guide/)
-[Getting Started](#objective)
+[Getting Started](#objective.md)
+
+<!-- background color -->
+![color](#ffffff)

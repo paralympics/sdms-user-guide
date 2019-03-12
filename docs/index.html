@@ -2,24 +2,32 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>SDMS User Guide</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="shortcut icon" href="img/favicon.ico" type="image/ico" sizes="16x16">
-  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <link rel="stylesheet" href="./theme.css">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: '',
-      repo: 'https://github.com/paralympics/sdms-user-guide',
-      loadSidebar: true,
-      homepage: 'objective.md',
+      repo: 'paralympics/sdms-user-guide',
       coverpage: true,
+      loadSidebar: true,
+      loadNavbar: false,
+      maxDepth: 2,
+      subMaxLevel: 2,
+      homepage: 'document-history.md',
+      notFoundPage: '_404.md',    
     }
   </script>
+
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+  <!-- image zoom -->
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
