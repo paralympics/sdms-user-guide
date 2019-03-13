@@ -9,7 +9,7 @@
 ```
 
 ### Emoji
-The emoji is the first part of the commit message. Please ensure the emoji you pick fits the `{message}`. You can use the following as a guide (derived from [Gitmoji]([https://gitmoji.carloscuesta.me/](https://github.com/carloscuesta/gitmoji))):
+The emoji is the first part of the commit message. Please ensure that the emoji you pick fits the `{message}`. You can use the following as a guide (derived from [Gitmoji]([https://gitmoji.carloscuesta.me/](https://github.com/carloscuesta/gitmoji))):
 - :art: - Improve structure / format of the code
 - :zap: - Improve performance
 - :fire: - Remove code or files
