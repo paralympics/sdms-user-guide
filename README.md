@@ -1,4 +1,8 @@
-<img class="no-border" src="img/ipc_logo_500.jpg" alt="International Paralympic Committee Logo">
+<p align="center">
+  <a href="https://paralympics.github.io/sdms-user-guide">
+    <img class="no-border" src="docs/img/ipc_logo_500.jpg" height="250px" alt="International Paralympic Committee Logo">
+  </a>
+</p>
 
 # IPC Sport Data Management System User Guide - Version A
 
@@ -6,12 +10,16 @@ This is the living, breathing and hopefully continously evolving documentation f
 
 Built with [Docsify](https://docsify.js.org)
 
-## Contents
+<!-- ## Installation -->
 
-## Installation
-
-## Usage
+<!-- ## Usage -->
 
 ## Contributing
 
-## License
+If you would like to help improve this documentation, please read up on our [Contributing Guide](CONTRIBUTING.md) before making a pull request.
+
+## Code of Conduct
+
+You can read the code of conduct [here](CODE_OF_CONDUCT.md)
+
+<!-- ## License -->

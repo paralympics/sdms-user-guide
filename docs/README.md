@@ -4,11 +4,10 @@
   </a>
 </p>
 
-# IPC Sport Data Management System User Guide - Version A
+# Sport Data Management System User Guide - Version A
 
 ## What is Sport Data Management System(SDMS)?
 As the name suggests SDMS is an application the IPC uses for the management of athlete data. It mainly comprises of the following tools:
-<!-- TODO: Add emojis that fit each one of these tools -->
 - Athletes and guides registration in all World Para sports
 - Full classification management
 - Licence Management according to the seasonal IPC Licensing Programme
@@ -35,7 +34,7 @@ You do not neccessarily have to read the whole of this documentaion in order to 
 
 Find a bug or have a feature request for SDMS? Please file an <a href="https://github.com/paralympics/issues" targe="_blank">issue</a>!
 
-Please read the [documentation]() or search in the issues before you post so as to avoid duplicates.
+> Please read the documentation or search in the issues before you post so as to avoid duplicates.
 
 ## Technical Support
 
@@ -49,4 +48,5 @@ For technical support, please send an email to [sdmsadmin@paralympic.org](mailto
 1. Put document-history into the introduction folder
 2. make the README.md file the first page
 3. add more information to the repository's README file
+4. install ImgBot to compress the images in the repo
 -->
