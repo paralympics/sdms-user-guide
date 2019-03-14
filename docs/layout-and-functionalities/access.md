@@ -10,7 +10,10 @@ You can also use the dedicated database server URL (as of December 2016, the www
 
 [https://db.ipc-services.org/sdms](https://db.ipc-services.org/sdms)
 
-![SDMS Login page](img/sdms-login-page.png ':size=1000x768')
+<figure>
+  <img class="screenshot" src="img/content/sdms-login-page.png" alt="SDMS Login Page">
+  <figcaption>caption</figcaption>
+</figure>
 
 ## Recommended Browsers
 It is recommended to use most modern and widely used browsers with recent updates installed in order to ensure stable functionality and security. SDMS runs best under Firefox (current version 50) and Google Chrome (version 54). Users of Internet Explorer (version 7 or higher) shall regularly update and inform about potential general security issues and either care for a stable version of look for alternatives. Additionally, JavaScript has to be enabled for correct functionality of SDMS.
