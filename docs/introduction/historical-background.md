@@ -1,6 +1,5 @@
 # Historical Background
 
-
 Alongside the fast growing size of the Paralympic Movement, in 2007 the IPC discovered the need of a database solution for the IPC governed sports including the introduction of an IPC Licensing Programme to offer a comprehensive global registry of active athletes by sport.
 
 The first version of SDMS was launched for January 2009 in the sports of Para athletics and Para swimming plus the newly introduced IPC Licensing Programme for all five summer sports that are governed by the IPC. About 70 NPCs registered and licensed 3,000 athletes in both sports. With help of this storage of information it does not only allow a faster and more accurate calculation and presentation of data, but also acts as a tool to specifically find out potential or obvious needs for further developments (countries & sports) within the Paralympic Movement.
@@ -15,9 +14,9 @@ At the same time, first versions of an entry system, simplifying the entry by na
 
 While the initial versions of the entry system were competition-based, the first official EBS version was launched in July 2011 applicable to all competitions, and from now on used for all major competitions in IPC summer sports, and all races in Alpine and Nordic skiing.
 
-In July 2012 and October 2012, respectively, SDMS 3.0 and EBS 2.0 were launched, mainly with more technical improvements and new layouts. 
+In July 2012 and October 2012, respectively, SDMS 3.0 and EBS 2.0 were launched, mainly with more technical improvements and new layouts.
 
-A major relaunch of the application was carried out in 2014 and 2015, with SDMS 4.0 launched on 3 June 2015. This upgrade was based on up-to-date web application paradigms which offer increased security and streamlined introduction of new features. 
+A major relaunch of the application was carried out in 2014 and 2015, with SDMS 4.0 launched on 3 June 2015. This upgrade was based on up-to-date web application paradigms which offer increased security and streamlined introduction of new features.
 
 Additionally, a version of SDMS developed for the International Blind Sport Federation (IBSA) was launched on 1 January 2015. This system, called IBSA Sport Administration System (ISAS) is integrated with SDMS so that National Paralympic Committes who are also member federations of IBSA can use their SDMS account details in ISAS and transfer between the two applications.
 

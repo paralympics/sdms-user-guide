@@ -36,5 +36,22 @@
 	  "|${4:data}|${5:data}|${6:data}|"
 	],
 	"description": "Markdown table with 3 columns"
-  }
+	},
+	
+	"Regular Comment": {
+		"prefix": "com",
+		"body": [
+			"<!-- ${1:Description} -->"
+		],
+		"description": "Comment"
+		},
+
+	"TODO": {
+		"prefix": "todo",
+		"body": [
+			"<!-- TODO: ${1:Description} -->"
+		],
+		"description": "TODO highlighting"
+		}
+
 }

@@ -32,7 +32,7 @@ You do not neccessarily have to read the whole of this documentaion in order to 
 
 ## Feedback
 
-Find a bug or have a feature request for SDMS? Please file an <a href="https://github.com/paralympics/issues" targe="_blank">issue</a>!
+Find a bug or have a feature request for SDMS? Please file an <a href="https://github.com/paralympics/sdms-user-guide/issues" targe="_blank">issue</a>!
 
 > Please read the documentation or search in the issues before you post so as to avoid duplicates.
 

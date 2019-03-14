@@ -1,6 +1,7 @@
 # Access
 
 ## SDMS Website
+
 As being an online application, the IPC Sport Data Management System is accessible on the
 Internet by inserting the following URL in the browser of your choice
 
@@ -16,14 +17,17 @@ You can also use the dedicated database server URL (as of December 2016, the www
 </figure>
 
 ## Recommended Browsers
+
 It is recommended to use most modern and widely used browsers with recent updates installed in order to ensure stable functionality and security. SDMS runs best under Firefox (current version 50) and Google Chrome (version 54). Users of Internet Explorer (version 7 or higher) shall regularly update and inform about potential general security issues and either care for a stable version of look for alternatives. Additionally, JavaScript has to be enabled for correct functionality of SDMS.
 
-## Account Request 
+## Account Request
+
 Currently, there are four main user groups defined. The most important client group are the National Paralympic Committees (NPCs). Additionally, recognised classifiers have temporary access to the classification section to read out or even change information. Last, but not least, the IPC Management Team runs all remaining procedures and supports the NPCs and classifiers. Besides those three groups, there a several individual temporary accounts opened for various purposes.
 
 !> Please share your personal account details with any colleague only if you take on full responsibility for all actions performed through your SDMS account.
 
 ### NPC Account
+
 Each NPC obtains one (1) SDMS account (primary user) to access all athletes in all IPC Sports stored in the system. This primary account must be designated to an employee of the National Paralympic Committee. Additionally, IPC may grant one (1) additional sport specific account. These accounts may be used by employees of the NPC or any national sport federation in order to decentralize the obligation of athletes’ registration and licensing. An individual person may hold two or more sport-specific accounts.
 
 #### How To: Apply for an SDMS NPC account
@@ -47,7 +51,9 @@ Each NPC obtains one (1) SDMS account (primary user) to access all athletes in a
 If a National Paralympic Committee user wishes to use their login details in a sister application developed for other sports federations within the Paralympic Movement – e.g. the IBSA Sport Administration System –they should submit such a request by email to [sdmsadmin@paralympic.org](mailto:sdmsadmin@paralympic.org).
 
 ## Security and Passwords
+
 SDMS is a password-protected application. This protection requires high standard beginning with usage of strong passwords. Strength of a password is primarily defined by its length and its used character set. To find a compromise between security and user-friendliness, a password for SDMS and all its related modules requires:
+
 - [x] Minimum length of eight (8) characters
 - [x] At least one (1) lower-case letter [a-z]
 - [x] At least one (1) upper-case letter [A-Z]
@@ -61,6 +67,7 @@ As it is recommended for all Internet applications like amazon, SDMS automatical
 However, the user can re-open his account on his own by using the password reset tool. Instructions are given below.
 
 #### How To: Change your password
+
 1. After you have entered the application, go to Edit Password at the upper right corner of SDMS. This screen automatically opens after the one year expiry period.
 
 <figure>
@@ -71,6 +78,7 @@ However, the user can re-open his account on his own by using the password reset
 2. Enter your current password in the first field. Enter your new password in the second field, then repeat it. The new password is automatically controlled against the password requirements; if the password does not meet the requirements, the field changes colour to red and saving the new password will not be accepted. Confirm your new password and submit.
 
 #### How To: Reset password when you have forgotten it
+
 1. Click on **I forgot my password** or use the menu bar **User Management > Password Reset**.
 2. Fill out the form by inserting your username and email address which had been registered with your account.
 3. After submission, you receive an automatically generated email with a link to allow you to reset your password (Figure 2.3). Check your spam folder if can’t find the message in your inbox.
