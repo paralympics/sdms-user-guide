@@ -3,7 +3,7 @@
     * [Document History](introduction/document-history.md)
     * [Objective](introduction/objective.md)
     * [Versions](introduction/versions.md)
-    * [Structure](introduction/structure.md)
+    <!--* [Structure](introduction/structure.md) -->
     * [Historical Background](introduction/historical-background.md)
     * [Prospective Developments](introduction/prospective-developments.md)
 
@@ -16,3 +16,16 @@
     * [File Attachments](layout-and-functionalities/file-attachments.md)
     * [Error Messages and Notices](layout-and-functionalities/error-messages-and-notices.md)
     * [Language Specific Letters](layout-and-functionalities/language-specific-letters.md)
+
+* IPC Licensing Programme
+  * [Intention](ipc-licensing-programme/intention.md)
+  * [Registration & Licensing](ipc-licensing-programme/registration-and-licensing.md)
+  * [Registration Process](ipc-licensing-programme/registration-process.md)
+  * [Rankings & Records](ipc-licensing-programme/rankings-and-records.md)
+  * [License Application Process](ipc-licensing-programme/license-application-process.md)
+  * [License Programmes](ipc-licensing-programme/license-programmes.md)
+
+<!-- TODO: 
+1. Add CHAPTER 4
+2. Correct STRUCTURE page  
+-->

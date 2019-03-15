@@ -41,7 +41,7 @@ div#app:empty:before {
 }
 
 .progress {
-  background-color: var(--theme-color, #42b983);
+  background-color: var(--ipc-blue);
   height: 2px;
   left: 0;
   position: fixed;
@@ -54,7 +54,7 @@ div#app:empty:before {
 
 .search .search-keyword,
 .search a:hover {
-  color: var(--theme-color, #42b983);
+  color: var(--ipc-blue);
 }
 
 .search .search-keyword {
@@ -83,6 +83,12 @@ img {
   border: var(--ipc-blue) 1px solid;
 }
 
+img.logo {
+  height: auto;
+  width: 100%;
+  max-width: 125px;
+}
+
 figure figcaption {
   color: var(--ipc-green);
   text-align: center;
@@ -101,6 +107,10 @@ img.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.footnote {
+  text-align: right;
 }
 
 a[disabled] {
@@ -161,11 +171,11 @@ li input[type="checkbox"] {
 
 .app-nav a.active,
 .app-nav a:hover {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color);
 }
 
 .app-nav a.active {
-  border-bottom: 2px solid var(--theme-color, #42b983);
+  border-bottom: 2px solid var(--ipc-blue);
 }
 
 .app-nav li {
@@ -231,7 +241,7 @@ li input[type="checkbox"] {
 
 .github-corner svg {
   color: #fff;
-  fill: var(--theme-color, #42b983);
+  fill: var(--ipc-blue);
   height: 80px;
   width: 80px;
 }
@@ -263,7 +273,7 @@ main.hidden {
 }
 
 .sidebar {
-  border-right: 1px solid rgba(0, 0, 0, 0.07);
+  border-right: 1px solid rgba(0, 86, 159, 0.3);
   overflow-y: auto;
   padding: 40px 0 0;
   position: absolute;
@@ -362,7 +372,7 @@ main.hidden {
 }
 
 .sidebar-toggle span {
-  background-color: var(--theme-color, #42b983);
+  background-color: var(--theme-color);
   display: block;
   margin-bottom: 4px;
   width: 16px;
@@ -657,10 +667,10 @@ section.cover ul {
 }
 
 section.cover .cover-main > p:last-child a {
-  border: 1px solid var(--theme-color, #42b983);
+  border: 1px solid var(--theme-color);
   border-radius: 2rem;
   box-sizing: border-box;
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color);
   display: inline-block;
   font-size: 1.05rem;
   letter-spacing: 0.1rem;
@@ -671,7 +681,7 @@ section.cover .cover-main > p:last-child a {
 }
 
 section.cover .cover-main > p:last-child a:last-child {
-  background-color: var(--theme-color, #42b983);
+  background-color: var(--theme-color);
   color: #fff;
 }
 
@@ -685,12 +695,12 @@ section.cover .cover-main > p:last-child a:hover {
 }
 
 section.cover blockquote > p > a {
-  border-bottom: 2px solid var(--theme-color, #42b983);
+  border-bottom: 2px solid var(--theme-color);
   transition: color 0.3s;
 }
 
 section.cover blockquote > p > a:hover {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color);
 }
 
 .sidebar,
@@ -726,7 +736,7 @@ body {
 
 .sidebar ul li.active > a {
   border-right: 2px solid;
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color);
   font-weight: 600;
 }
 
@@ -746,7 +756,7 @@ body {
 }
 
 .markdown-section a {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color);
   font-weight: 600;
 }
 
@@ -796,7 +806,7 @@ body {
 }
 
 .markdown-section blockquote {
-  border-left: 4px solid var(--theme-color, #42b983);
+  border-left: 4px solid var(--theme-color);
   color: #858585;
   margin: 2em 0;
   padding-left: 20px;
@@ -870,7 +880,7 @@ body {
 }
 
 .token.string {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color);
 }
 
 .token.selector {
@@ -892,7 +902,7 @@ body {
 .token.control,
 .token.directive,
 .token.unit {
-  color: var(--theme-color, #42b983);
+  color: var(--theme-color);
 }
 
 .token.function,

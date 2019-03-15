@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://paralympics.github.io/sdms-user-guide">
-    <img class="no-border" src="img/ipc_logo_500.jpg" height="250px" alt="International Paralympic Committee Logo">
-  </a>
-</p>
+# Sport Data Management System User Guide
 
-# Sport Data Management System User Guide - Version A
+> Version A
 
 ## What is Sport Data Management System(SDMS)?
 As the name suggests SDMS is an application the IPC uses for the management of athlete data. It mainly comprises of the following tools:
@@ -32,8 +28,9 @@ You do not neccessarily have to read the whole of this documentaion in order to 
 
 ## Feedback
 
-Find a bug or have a feature request for SDMS? Please file an <a href="https://github.com/paralympics/sdms-user-guide/issues" targe="_blank">issue</a>!
+Find a bug or have a feature request for SDMS? Please file an <a href="https://github.com/paralympics/sdms-user-guide/issues">issue</a>!
 
+> [!NOTE]
 > Please read the documentation or search in the issues before you post so as to avoid duplicates.
 
 ## Technical Support
@@ -49,4 +46,6 @@ For technical support, please send an email to [sdmsadmin@paralympic.org](mailto
 2. make the README.md file the first page
 3. add more information to the repository's README file
 4. install ImgBot to compress the images in the repo
+5. Consider Implementing nested sidebars
+6. Set up Offline Mode
 -->

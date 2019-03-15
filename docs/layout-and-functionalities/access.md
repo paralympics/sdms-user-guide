@@ -24,7 +24,8 @@ It is recommended to use most modern and widely used browsers with recent update
 
 Currently, there are four main user groups defined. The most important client group are the National Paralympic Committees (NPCs). Additionally, recognised classifiers have temporary access to the classification section to read out or even change information. Last, but not least, the IPC Management Team runs all remaining procedures and supports the NPCs and classifiers. Besides those three groups, there a several individual temporary accounts opened for various purposes.
 
-!> Please share your personal account details with any colleague only if you take on full responsibility for all actions performed through your SDMS account.
+> [!DANGER]
+> Please share your personal account details with any colleague only if you take on full responsibility for all actions performed through your SDMS account.
 
 ### NPC Account
 
@@ -62,7 +63,8 @@ SDMS is a password-protected application. This protection requires high standard
 
 As it is recommended for all Internet applications like amazon, SDMS automatically reminds the user to change his password when one year after last password change have passed.
 
-!> Your account is automatically disabled after five sequential failed login attempts.
+> [!WARNING]
+> Your account is automatically disabled after five sequential failed login attempts.
 
 However, the user can re-open his account on his own by using the password reset tool. Instructions are given below.
 
