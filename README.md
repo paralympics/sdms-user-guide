@@ -22,4 +22,6 @@ If you would like to help improve this documentation, please read up on our [Con
 
 You can read the code of conduct [here](CODE_OF_CONDUCT.md)
 
-<!-- ## License -->
+## License
+
+[MIT](LICENSE)
