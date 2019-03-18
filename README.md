@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://paralympics.github.io/sdms-user-guide">
-    <img src="docs/img/ipc_logo_500.jpg" height="250px" alt="International Paralympic Committee Logo">
+    <img src="docs/_img/ipc_logo_500.jpg" height="250px" alt="International Paralympic Committee Logo">
   </a>
 </p>
 
