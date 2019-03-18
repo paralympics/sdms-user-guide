@@ -6,14 +6,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Description" />
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/ico" sizes="16x16" />
-    <link rel="stylesheet" href="./theme.css" />
+    <link rel="shortcut icon" href="_img/favicon.ico" type="image/ico" sizes="16x16" />
+    <link rel="stylesheet" href="_assets/theme.css" />
+    <link rel="stylesheet" href="_assets/ps-icon-pack.min.css">
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: '<img class="no-border center" width="50px" src="img/ipc_symbol_100.jpg" >',
+        name: '<img class="center" width="50px" src="_img/ipc_symbol_100.jpg" >',
         //name: 'SDMS User Guide',
         repo: 'https://github.com/paralympics/sdms-user-guide',
         nameLink: '/',
@@ -33,7 +34,20 @@
         themeColor: '#008542',
         'flexible-alerts': {
           style: 'callout'
-        }
+        },
+        plugins: [
+    function(hook) {
+      var footer = [
+        '<footer>',
+        '<span>&copy;2019 <a href="https://www.paralympic.org/" target="_blank">International Paralympic Committee</a></span>',
+        '</footer>'
+      ].join('');
+
+      hook.afterEach(function(html) {
+        return html + footer;
+      });
+    }
+  ]
       };
     </script>
 

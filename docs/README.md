@@ -1,8 +1,6 @@
 # Sport Data Management System User Guide
 
-> Version A
-
-## What is Sport Data Management System(SDMS)?
+## What is SDMS?
 As the name suggests SDMS is an application the IPC uses for the management of athlete data. It mainly comprises of the following tools:
 - Athletes and guides registration in all World Para sports
 - Full classification management
@@ -18,7 +16,7 @@ As the name suggests SDMS is an application the IPC uses for the management of a
 ## Getting Started
 Dive right into learning about SDMS -> [start here](layout-and-functionalities/access) 
 
-## Quick Fix
+## Troubleshooting
 
 If you are experiencing some minor issues with SDMS please check [Troubleshooting]() or [FAQs]().
 
@@ -40,6 +38,10 @@ For technical support, please send an email to [sdmsadmin@paralympic.org](mailto
 ## License
 
 [Something super legally binding!]()
+
+## Credits
+
+Powered by: [docsify](https://docsify.js.org)
 
 <!-- TODO: Switch the document structure of the guide
 1. Put document-history into the introduction folder

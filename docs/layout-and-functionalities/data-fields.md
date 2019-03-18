@@ -1,6 +1,6 @@
 # Data Fields
 
-Search criteria forms, entity detail pages and similar generally are simple HTML forms and are composed of free text fields, drop down menus, radio, and tick boxes. Each field is labelled according to its value behind. Some fields have prepended a small info icon <img class="no-border" src="src" alt="Information Icon"> which contains more explanations and regulations about the field and its content when clicked. <!-- TODO: Add information icon -->
+Search criteria forms, entity detail pages and similar generally are simple HTML forms and are composed of free text fields, drop down menus, radio, and tick boxes. Each field is labelled according to its value behind. Some fields have prepended a small info icon <img src="src" alt="Information Icon"> which contains more explanations and regulations about the field and its content when clicked. <!-- TODO: Add information icon -->
 
 SDMS has a few additional functionalities or tools behind the fields the user must be aware of:
 
@@ -11,6 +11,6 @@ SDMS has a few additional functionalities or tools behind the fields the user mu
 - Date Field – The standardized date field format is yyyy-mm-dd (year – month – day).
 
   <!-- TODO: Date Field Images -->
-  <img class="no-border" src="src" alt="Date Field">
+  <img class="screenshot" src="src" alt="Date Field">
 
-  When a date field (e.g., athlete’s date of birth) is focussed, a small calendar tool appears to facilitate the date format. Drop down boxes on top opens the respective sheet per month and year. The buttons <img class="no-border" src="src" alt="Left Scroll"> and <img class="no-border" src="src" alt="Right Scroll"> scroll through the calendar by month. Currently selected date is highlighted in orange. This small window closes automatically when a date is selected, the button Done is clicked or another field is focussed. In some date fields, minimum and maximum dates are set up. The calendar tool for those fields only displays the acceptable date range.
+  When a date field (e.g., athlete’s date of birth) is focussed, a small calendar tool appears to facilitate the date format. Drop down boxes on top opens the respective sheet per month and year. The buttons <img src="src" alt="Left Scroll"> and <img src="src" alt="Right Scroll"> scroll through the calendar by month. Currently selected date is highlighted in orange. This small window closes automatically when a date is selected, the button Done is clicked or another field is focussed. In some date fields, minimum and maximum dates are set up. The calendar tool for those fields only displays the acceptable date range.

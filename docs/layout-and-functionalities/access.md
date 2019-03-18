@@ -12,7 +12,7 @@ You can also use the dedicated database server URL (as of December 2016, the www
 [https://db.ipc-services.org/sdms](https://db.ipc-services.org/sdms)
 
 <figure>
-  <img class="screenshot" src="img/content/sdms-login-page.png" alt="SDMS Login Page">
+  <img class="screenshot" src="_img/content/sdms-login-page.png" alt="SDMS Login Page">
   <figcaption>caption</figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ However, the user can re-open his account on his own by using the password reset
 1. After you have entered the application, go to Edit Password at the upper right corner of SDMS. This screen automatically opens after the one year expiry period.
 
 <figure>
-<img src="img/content/change-password.png" width=100% height=100% alt="Change Password">
+<img src="_img/content/change-password.png" width=100% height=100% alt="Change Password">
   <figcaption>Figure 2.2: SDMS Password Editor</figcaption>
 </figure>
 
@@ -88,12 +88,12 @@ However, the user can re-open his account on his own by using the password reset
 5. You will then be redirected to the SDMS login page, and you may now enter the application with the new password.
 
 <figure>
-<img src="img/content/password-reset-email.png" width=100% height=100% alt="Auto-generated Email">
+<img src="_img/content/password-reset-email.png" width=100% height=100% alt="Auto-generated Email">
   <figcaption>Figure 2.3: Automatically generated email</figcaption>
 </figure>
 
 <figure>
-<img src="img/content/password-reset.png" width=100% height=100% alt="Auto-generated Email">
+<img src="_img/content/password-reset.png" width=100% height=100% alt="Auto-generated Email">
   <figcaption>Figure 2.4: SDMS Password Reset</figcaption>
 </figure>
 

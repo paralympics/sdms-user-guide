@@ -14,7 +14,7 @@ Users specify their search parameters by entering text or selecting items from t
 
 <!-- TODO: reset button -->
 
-The reset button <img class="no-border" src="src" alt="alt"> resets the search to its initial parameters. If you need to clear the grid of all parameters, use the clear grid button in the bottom row.
+The reset button <img src="src" alt="alt"> resets the search to its initial parameters. If you need to clear the grid of all parameters, use the clear grid button in the bottom row.
 
 Users specify their search parameter by entering text or select items from the dropdown search fields. Each search field only allows for entries with fewer or the same number of characters defined in the database structure.
 
@@ -36,6 +36,6 @@ Each row in the matrix represents one data set with some basic information.
 - When a data row is clicked, the detail page opens to review and manipulate. Some screens do not have a detail page; in that case, clicking selects the row.
 
 <!-- TODO: delete & grid export icon -->
-Underneath the search results matrix, two buttons duplicate the functionality of icons in the matrix footer, namely the **Delete** button (same as <img class="no-border" src="src" alt="alt">) and the **Grid Export** button (same as <img class="no-border" src="src" alt="alt">).
+Underneath the search results matrix, two buttons duplicate the functionality of icons in the matrix footer, namely the **Delete** button (same as <img src="src" alt="alt">) and the **Grid Export** button (same as <img src="src" alt="alt">).
 
 When the detail page is opened, you can go back by clicking **Back to Search Results**. This button re-applies the search criteria and opens the previous search results matrix page. Additional buttons on the detail page open a blank form to create a new data set (**Add New X** or **New**), save, refresh, delete, or clear the loaded detail page. Further buttons designed for a specific detail page are described in the respective chapters of this guide.

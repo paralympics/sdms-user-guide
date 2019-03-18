@@ -1,4 +1,4 @@
-<img class="no-border logo" src="img/ipc_logo_500.jpg" alt="IPC - International Paralympic Committee">
+<img class="logo" src="_img/ipc_logo_500.jpg" alt="IPC - International Paralympic Committee">
 
 > Sports Data Management System User Guide
 
