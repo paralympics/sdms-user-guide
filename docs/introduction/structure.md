@@ -1,5 +1,7 @@
 # Structure
-
+<!-- TODO:
+1. Correct links to other page & enable link in _sidebar.md
+-->
 The current chapter describes the general objective of this manual, its different existing versions and structure as well as briefly summarizes the history of SDMS development.
 
 The second chapter explains how to get an account for SDMS, how to access this central IPC database, the navigation through the application, the menu bars, general usages of search forms, and buttons appearing on several pages. Please read this chapter if you are not experienced with high security applications in general or with SDMS in specific.

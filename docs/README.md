@@ -25,7 +25,7 @@ Dive right into learning about SDMS -> [start here](layout-and-functionalities/a
 
 ## Troubleshooting
 
-If you are experiencing some minor issues with SDMS please check [Troubleshooting]() or [FAQs]().
+If you are experiencing some minor issues with SDMS please check [Troubleshooting](help/troubleshooting) or [FAQs](help/faqs).
 
 ## Reading Documentation
 
@@ -33,7 +33,7 @@ You do not neccessarily have to read the whole of this documentaion in order to 
 
 ## Feedback
 
-Find a bug or have a feature request for SDMS? Please file an <a href="https://github.com/paralympics/sdms-user-guide/issues">issue</a>!
+Find a bug or have a feature request for SDMS? Please file an [issue](https://github.com/paralympics/sdms-user-guide/issues "blank")!
 
 > [!NOTE]
 > Please read the documentation or search in the issues before you post so as to avoid duplicates.
@@ -44,7 +44,7 @@ For technical support, please send an email to [sdmsadmin@paralympic.org](mailto
 
 ## License
 
-[MIT](https://github.com/paralympics/sdms-user-guide/blob/master/LICENSE)
+[MIT](license.md)
 
 ## Credits
 

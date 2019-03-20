@@ -1,0 +1,5 @@
+This chapter describes the main menu item Licenses, where information about the licensing status of athletes within the IPC Sports and the IPC Licensing Programme is stored. The process is described with greater detail in [License Application Process](ipc-licensing-programme/license-application-process.md) <!-- TODO: and in the appendix -->.
+
+The process can be quickly summarised as follows: NPCs apply and pay for licenses for their athletes for each sport the athlete will compete in that season, in order to have their results eligible for records and rankings, and to be able to compete in high level IPC recognised competitions. IPC do not review the license applications individually, but rather ensure that the athletes are eligible to compete before they are made available to NPCs to be licensed. In winter sports, IPC also manually checks each payment before a license can be awarded.
+
+The main elements of SDMS handled through this menu item are payments and invoices, available licenses by sport and NPC, and the license status of individual athletes. The menu item is accessible to IPC Sport officers, NPC users, and IPC Finance Department.

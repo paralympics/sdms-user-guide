@@ -3,7 +3,7 @@
   - [Document History](introduction/document-history.md)
   - [Objective](introduction/objective.md)
   - [Versions](introduction/versions.md)
-    <!--* [Structure](introduction/structure.md) -->
+    <!-- - [Structure](introduction/structure.md) -->
   - [Historical Background](introduction/historical-background.md)
   - [Prospective Developments](introduction/prospective-developments.md)
 
@@ -27,6 +27,32 @@
   - [License Application Process](ipc-licensing-programme/license-application-process.md)
   - [License Programmes](ipc-licensing-programme/license-programmes.md)
 
-<!-- TODO:
-1. Correct STRUCTURE page
--->
+- Participants
+  - [Registration & Update](participants/registration-and-update.md)
+  - [Classification](participants/classification.md)
+  - [Duplicate Control](participants/duplicate-control.md)
+
+- License Management
+  - [Introduction](license-management/introduction.md)
+  - [NPC License Packages](license-management/npc-license-packages.md)
+  - [License Overview & Application](license-management/license-overview-and-application.md)
+  - [License Cards](license-management/license-cards.md)
+  - [License Renewal](license-management/license-renewal.md)
+  - [Invoices](license-management/invoices.md)
+  - [Address Book](license-management/address-book.md)
+
+- Competition Management
+  - [Approval Management](competition-management/approval-management.md)
+
+- Reports
+  - [Classification Report](reports/classification-report.md)
+  - [License Report](reports/license-report.md)
+  - [Record Certificates](reports/record-certificates.md)
+
+- Help
+  - [Glossary](help/glossary.md)
+  - [Troubleshooting](help/troubleshooting.md)
+  - [FAQs](help/faqs.md)
+
+<!-- TODO: - API Reference -->
+

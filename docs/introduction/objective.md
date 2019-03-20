@@ -6,6 +6,6 @@ This documentation describes all important functionalities of the IPC Sport Data
 - Classification Management (e.g., confirmation of classes, classification file upload and review)
 - License Management (e.g., athlete license application and payment)
 - Competition Management (e.g., competition data, process preparations)
-  This manual is provided in different versions to different user groups, as described in [Versions of the SDMS User Guide](versions).
+  This manual is provided in different versions to different user groups, as described in [Versions of the SDMS User Guide](introduction/versions.md).
 
 <!-- TODO: Format all markdown documents! -->
