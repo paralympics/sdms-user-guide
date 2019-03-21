@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="_img/ipc_logo_500.jpg" height="250px" alt="International Paralympic Committee Logo">
+    <img src="https://github.com/paralympics/sdms-user-guide/blob/master/docs/_img/ipc_logo_500.jpg" height="250px" alt="International Paralympic Committee Logo">
 </p>
 
 <h1 align="center">Sport Data Management System User Guide</h1>
-<h6 align="center">Version A</h6>
+<h2 align="center">Version A</h2>
 
 This is the living, breathing and hopefully continously evolving documentation for one of the International Paralympic Committee's applications, Sport Data Management System (SDMS). If you find a problem or there is something that you would like to dispute, please check out our [Contributing Guide](CONTRIBUTING.md).
 
@@ -24,11 +24,11 @@ As the name suggests SDMS is an application the IPC uses for the management of a
 
 ## Getting Started
 
-Dive right into learning about SDMS -> [start here](layout-and-functionalities/access)
+Dive right into learning about SDMS -> [start here](https://paralympics.github.io/sdms-user-guide/#/layout-and-functionalities/access)
 
 ## Troubleshooting
 
-If you are experiencing some minor issues with SDMS please check [Troubleshooting](help/troubleshooting) or [FAQs](help/faqs).
+If you are experiencing some minor issues with SDMS please check [Troubleshooting](https://paralympics.github.io/sdms-user-guide/#/help/troubleshooting) or [FAQs](https://paralympics.github.io/sdms-user-guide/#/help/faqs).
 
 ## Reading Documentation
 
@@ -38,7 +38,6 @@ You do not neccessarily have to read the whole of this documentaion in order to 
 
 Find a bug or have a feature request for SDMS? Please file an [issue](https://github.com/paralympics/sdms-user-guide/issues "blank")!
 
-> [!NOTE]
 > Please read the documentation or search in the issues before you post so as to avoid duplicates.
 
 ## Technical Support
