@@ -12,8 +12,8 @@ You can also use the dedicated database server URL (as of December 2016, the www
 [https://db.ipc-services.org/sdms](https://db.ipc-services.org/sdms)
 
 <figure>
-  <img class="screenshot" src="_img/content/sdms-login-page.png" alt="SDMS Login Page">
-  <figcaption>caption</figcaption>
+  <img src="_img/content/sdms-login-page.png" alt="SDMS Login Page" class="screenshot">
+  <figcaption>Figure 2.1: SDMS Login Page</figcaption>
 </figure>
 
 ## Recommended Browsers
@@ -73,11 +73,11 @@ However, the user can re-open his account on his own by using the password reset
 1. After you have entered the application, go to Edit Password at the upper right corner of SDMS. This screen automatically opens after the one year expiry period.
 
 <figure>
-<img src="_img/content/change-password.png" width=100% height=100% alt="Change Password">
+<img src="_img/content/change-password.png" alt="Change Password" class="screenshot">
   <figcaption>Figure 2.2: SDMS Password Editor</figcaption>
 </figure>
 
-2. Enter your current password in the first field. Enter your new password in the second field, then repeat it. The new password is automatically controlled against the password requirements; if the password does not meet the requirements, the field changes colour to red and saving the new password will not be accepted. Confirm your new password and submit.
+1. Enter your current password in the first field. Enter your new password in the second field, then repeat it. The new password is automatically controlled against the password requirements; if the password does not meet the requirements, the field changes colour to red and saving the new password will not be accepted. Confirm your new password and submit.
 
 #### How To: Reset password when you have forgotten it
 
@@ -88,12 +88,12 @@ However, the user can re-open his account on his own by using the password reset
 5. You will then be redirected to the SDMS login page, and you may now enter the application with the new password.
 
 <figure>
-<img src="_img/content/password-reset-email.png" width=100% height=100% alt="Auto-generated Email">
+<img src="_img/content/password-reset-email.png" alt="Auto-generated Email" class="screenshot">
   <figcaption>Figure 2.3: Automatically generated email</figcaption>
 </figure>
 
 <figure>
-<img src="_img/content/password-reset.png" width=100% height=100% alt="Auto-generated Email">
+<img src="_img/content/password-reset.png" alt="Auto-generated Email" class="screenshot">
   <figcaption>Figure 2.4: SDMS Password Reset</figcaption>
 </figure>
 

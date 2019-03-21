@@ -5,7 +5,7 @@
     "prefix": "scr",
     "body": [
       "<figure>",
-      "\t<img class=\"screenshot\" src=\"${1:src}\" alt=\"${2:alt}\">",
+      "\t<img src=\"${1:src}\" alt=\"${2:alt}\" class=\"screenshot\" >",
       "\t<figcaption>${3:caption}</figcaption>",
       "</figure>"
     ],

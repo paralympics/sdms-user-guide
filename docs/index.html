@@ -4,50 +4,68 @@
     <meta charset="UTF-8" />
     <title>SDMS User Guide</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="description" content="Description" />
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
-    <link rel="shortcut icon" href="_img/favicon.ico" type="image/ico" sizes="16x16" />
+    <meta
+      name="description"
+      content="IPC Sport Data Management System User Guide"
+    />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <link
+      rel="shortcut icon"
+      href="_img/favicon.ico"
+      type="image/ico"
+      sizes="16x16"
+    />
+    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
     <link rel="stylesheet" href="_assets/theme.css" />
-    <link rel="stylesheet" href="_assets/ps-icon-pack.min.css">
   </head>
   <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
-        name: '<img class="center" width="50px" src="_img/ipc_symbol_100.jpg" >',
-        //name: 'SDMS User Guide',
-        repo: 'https://github.com/paralympics/sdms-user-guide',
-        nameLink: '/',
-        //coverpage: true,
+        name:
+          '<img src="_img/ipc_symbol_100.jpg" alt="IPC Logo" class="sidebar-logo center" width="50px">',
+        repo: "https://github.com/paralympics/sdms-user-guide",
         loadSidebar: true,
         loadNavbar: false,
         maxDepth: 2,
         subMaxLevel: 2,
         auto2top: true,
-        notFoundPage: '_404.md',
+        autoHeader: false,
+        homepage:
+          "https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/README.md",
+        notFoundPage: "_404.md",
+        alias: {
+          "/.*/_sidebar.md": "/_sidebar.md",
+          ".*?/CONTRIBUTING":
+            "https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/CONTRIBUTING",
+          ".*?/CODE_OF_CONDUCT":
+            "https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/CODE_OF_CONDUCT"
+        },
         search: {
           paths: "auto",
           placeholder: "Search",
           noData: "No Results.",
           hideOtherSidebarContent: true
         },
-        themeColor: '#008542',
-        'flexible-alerts': {
-          style: 'callout'
+        "flexible-alerts": {
+          style: "callout"
         },
         plugins: [
-    function(hook) {
-      var footer = [
-        '<footer>',
-        '<span>&copy;2019 <a href="https://www.paralympic.org/" target="_blank">International Paralympic Committee</a></span>',
-        '</footer>'
-      ].join('');
+          function(hook) {
+            var footer = [
+              "<footer>",
+              '<span>&copy;2019 <a href="https://www.paralympic.org/" target="_blank">International Paralympic Committee</a></span>',
+              "</footer>"
+            ].join("");
 
-      hook.afterEach(function(html) {
-        return html + footer;
-      });
-    }
-  ]
+            hook.afterEach(function(html) {
+              return html + footer;
+            });
+          }
+        ]
       };
     </script>
 
