@@ -5,7 +5,7 @@ The search criteria are specified by the following fields:
 
 | **Field**                  | **Format**        | **Comments**                                                                                                                        |
 |----------------------------|-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| **NPC**                    | drop down [NPC]   | restriction, default (\<All\>) searches all NPCs available to user – can restrict to 1 NPC                                          |
+| **NPC**                    | drop down [NPC]   | restriction, default (All) searches all NPCs available to user – can restrict to 1 NPC                                          |
 | **Sport**                  | drop down [Sport] | as above                                                                                                                            |
 | **Family Name (passport)** | tick box          | Unlike most other SDMS name fields, does not search preferred field. These are default selections if no other criteria are applied. |
 | **Given Name (passport)**  | tick box          |                                                                                                                                     |

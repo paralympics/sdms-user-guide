@@ -11,8 +11,9 @@ As English is the language of the International Paralympic Committee (IPC), only
 
 Accents, umlauts, or other language specific letters or characters are not permitted. The following table shows which English letter shall be used for some examples of language specific characters (linguistic transcription):
 
-| ÀÁÂÃÄÅàáâãäå    | >    | A, a             |
+| Character       | >    | English Letter   |
 | :-------------- | :--- | :--------------- |
+| ÀÁÂÃÄÅàáâãäå    | >    | A, a             |
 | Ææ              | >    | Ae, ae           |
 | Çç              | >    | C, c             |
 | ÈÉÊËèéêë        | >    | E, e             |

@@ -5,7 +5,7 @@ Each athlete must be registered and licensed before they are eligible to compete
 ## Details
 
 Users must navigate the Registration & Update search screen before they can modify any participant details. By clicking on a row in the grid or on the *New Athlete/Guide* button,users reach the details tab with fields described in the following table.
-<!-- TODO: Check this table -->
+
 | **Field**                              | **Format**                                                               | **Searchable**      | **Comments**                                                                                                                                                                                   |
 | -------------------------------------- | ------------------------------------------------------------------------ | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Basic Information**                  |                                                                          |                     |                                                                                                                                                                                                |
@@ -65,28 +65,28 @@ The **delete** button is accessible from the participant detail menu, but athlet
 1. Obtain a blank athlete detail form (Figure 4.1) by clicking the *New Athlete/Guide* button (from the search form) or the *New* button (from the details page).
    
 2. Referring to the athlete details table, complete all fields to the best of your knowledge. Cross-check spelling and information with the uploaded documents; for example, the spelling of the passport name should be identical to that of the uploaded ID document, as far as the English alphabet allows.
-
+<!-- TODO: Image -->
 <figure>
     <img class="screenshot" src="src" alt="A blank Participant form with some notes about special items">
     <figcaption>Figure 4.1: A blank participant form with some notes about special items</figcaption>
 </figure>
 
-3. Select the sport of the athlete or guide in from the drop down box *Sport*. For athletes, then enter the classification in the drop down box 1st Class, and possibly further classifications.
+1. Select the sport of the athlete or guide in from the drop down box *Sport*. For athletes, then enter the classification in the drop down box 1st Class, and possibly further classifications.
    
-4. Click *Save* to create an SDMS ID for the participant. Note that the athlete or guide status of the participant can no longer be changed.
+2. Click *Save* to create an SDMS ID for the participant. Note that the athlete or guide status of the participant can no longer be changed.
    
-5. Upload a photo of the participant by clicking *Browse* and choosing a file from your local hard drive or network. The requirements for photos are described in chapter 2.5. For quick reference, the photo should be in passport size format, around 7:10 in aspect ratio, and saved as a JPG file smaller than 250 kB.
+3. Upload a photo of the participant by clicking *Browse* and choosing a file from your local hard drive or network. The requirements for photos are described in chapter 2.5. For quick reference, the photo should be in passport size format, around 7:10 in aspect ratio, and saved as a JPG file smaller than 250 kB.
    
-6. Obtain a valid copy of the IPC Eligibility Agreement (see chapter 3.3.2) with a signature from the athlete and/or, if the athlete is younger than 18 years old, their parent or legal guardian. Scan this document, save it as a PDF file, and upload the PDF file under the *Upload Document* field.
+4. Obtain a valid copy of the IPC Eligibility Agreement (see chapter 3.3.2) with a signature from the athlete and/or, if the athlete is younger than 18 years old, their parent or legal guardian. Scan this document, save it as a PDF file, and upload the PDF file under the *Upload Document* field.
    
-7. If all the documents have been correctly uploaded, the responsible sport department will then review the registration for correctness. If there are documentation issues or other problems with the registration, IPC shall notify the user by using ‘IPC Comments’ and/or email.
+5. If all the documents have been correctly uploaded, the responsible sport department will then review the registration for correctness. If there are documentation issues or other problems with the registration, IPC shall notify the user by using ‘IPC Comments’ and/or email.
    
-8. To upload documentation relating to the athlete’s medical condition, e.g. Medical Diagnostic Forms, please navigate to *Participants > Classification* and search for the athlete’s classification profile.
+6. To upload documentation relating to the athlete’s medical condition, e.g. Medical Diagnostic Forms, please navigate to *Participants > Classification* and search for the athlete’s classification profile.
 
 After an athlete has been registered, there may be reason to change the details, for example because of errors or omissions in the data entry process, name changes due to change in marital status, etc.
 
 ### How To: Change Athlete Details
-
+<!-- TODO: Image -->
 <figure>
     <img class="screenshot" src="src" alt="Name change dialogue box">
     <figcaption>Figure 4.2: Name change dialogue box</figcaption>
@@ -101,7 +101,7 @@ After an athlete has been registered, there may be reason to change the details,
 4. If you change the name of the athlete, please bear in mind that changes only apply to the field you enter, i.e., a change of passport name will not change the preferred name,which is what the IPC will use in official result lists and rankings. Hence, in case of a name change, please change both fields unless there is a specific reason not to (the athlete wishes to be known under the old name but the passport issuing body will only recognise the new name, for example).
 
 ## Biography
-
+<!-- TODO: Image -->
 <figure>
     <img class="screenshot" src="src" alt="Biography fields">
     <figcaption>Figure 5.3: Biography fields</figcaption>
@@ -125,7 +125,7 @@ All historic changes to status are also displayed here, along with time stamp an
 ### Classification
 
 This section is designed for non-classifier users who wish to have a quick overview of the classes the athlete is eligible for, as well as entering and removing the class of athletes which have not yet been classified by international panels (New class status). More detailed manipulation is possible from [Classification](classification.md).
-
+<!-- TODO: Image -->
 <figure>
     <img class="screenshot" src="src" alt="Summary of athlete’s classes">
     <figcaption>Figure 5.4: Summary of athlete’s classes</figcaption>
@@ -171,7 +171,7 @@ Under the equipment tab, manufacturer, product name and catalogue/module Number 
 All currently updated equipment sets are displayed; to add further equipment sets, click *New Equipment Set* and choose the type of equipment and the sport for which it shall be used. The maximum number of equipment sets you can register is three (3).
 
 Once the basic information has been saved, you may now add *images* or technical document of the equipment under *PDF Documents* (Maximum 5 Images or PDF). The photos should be clear and show the product specifications as described above.
-
+<!-- TODO: Image -->
 <figure>
     <img class="screenshot" src="src" alt="Equipment tab">
     <figcaption>Figure 5.5: Equipment tab</figcaption>

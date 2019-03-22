@@ -21,6 +21,9 @@ A major relaunch of the application was carried out in 2014 and 2015, with SDMS 
 Additionally, a version of SDMS developed for the International Blind Sport Federation (IBSA) was launched on 1 January 2015. This system, called IBSA Sport Administration System (ISAS) is integrated with SDMS so that National Paralympic Committes who are also member federations of IBSA can use their SDMS account details in ISAS and transfer between the two applications.
 
 <figure>
-    <img class="screenshot" src="_img/content/database-architecture.png" alt="Database Architecture">
-    <figcaption>Database Architecture</figcaption>
+    <img class="screenshot" src="_img/figures/1.1-database-architecture.png" alt="Database Architecture">
+    <figcaption>Figure 1.1: Database Architecture</figcaption>
 </figure>
+
+- Centralized SDMS Database with two applications in different layouts. 
+- The double-arrows in the database graphic illustrate potentially overlapping entities.

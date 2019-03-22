@@ -5,7 +5,7 @@
 The header of SDMS and any of its modules consists of three sections. When the user is logged in, the user information field reflects username, last login, and the remaining time before the user session is automatically deleted.The secondary menu bar is located at the upper right corner.
 
 <figure>
-<img class="screenshot" src="_img/content/secondary-menu.png" width=100% height=100% alt="Secondary Menu">
+<img class="screenshot" src="_img/figures/2.5-secondary-menu.png" width=100% height=100% alt="Secondary Menu">
   <figcaption>Figure 2.5: Secondary Menu</figcaption>
 </figure>
 
@@ -21,11 +21,11 @@ Following options are available:
 
 ## Primary Menu
 
-The primary menu (also called the modules menu) allows the access to all various sections of SDMS the user is granted to and is located below the user information. It can be accessed by moving the cursor to the <img src="_img/content/primary-menu-icon.svg" alt="Primary Menu Icon"> icon in the navigation bar, at the upper left corner.
+The primary menu (also called the modules menu) allows the access to all various sections of SDMS the user is granted to and is located below the user information. It can be accessed by moving the cursor to the <img src="_img/inline/icon-primary-menu.svg" alt="Primary Menu Icon" class="inline"> icon in the navigation bar, at the upper left corner.
 
 <figure>
-<img class="center" src="_img/content/primary-menu.png" alt="Primary Menu">
-  <figcaption>Figure 2.5: Primary Menu</figcaption>
+<img src="_img/figures/2.6-primary-menu.png" alt="Primary Menu" class="center" >
+  <figcaption>Figure 2.6: Primary Menu</figcaption>
 </figure>
 
 Currently, six main sections divide the application, they are:
@@ -44,6 +44,6 @@ Currently, six main sections divide the application, they are:
 There is also the option of clicking any of the icons on the home page to acces the any of the available SDMS modules.
 
 <figure>
-<img class="screenshot" src="_img/content/alternative-menu.png" alt="Alternative Menu">
-  <figcaption>Figure 2.6: Alternative Menu - typical setup for NPC account</figcaption>
+<img class="screenshot" src="_img/figures/2.7-alternative-menu.png" alt="Alternative Menu">
+  <figcaption>Figure 2.7: Alternative Menu - typical setup for NPC account</figcaption>
 </figure>

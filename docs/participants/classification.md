@@ -28,6 +28,7 @@ When opening an athlete’s classification details page (Figure 5.7), each class
 
 The Classification tab further contains a visual overview of all registered classification, offered from the *Analysis (PDF)* button. It is also possible to update the class status of registered results depending on the newly entered classification information; this is done via the *Apply to Results* button. The process of applying classification changes is also performed automatically whenever users enter a new classification or when new results are added to SDMS.
 
+<!-- TODO: Image -->
 <figure>
     <img class="screenshot" src="src" alt="Classification Details tab">
     <figcaption>Figure 5.7: Classification Details tab</figcaption>
@@ -73,7 +74,7 @@ The Documentation tab allows for uploading and accessing sheets and forms relati
 ### Upload a Medical Diagnostic Form
 
 1. Search for the athlete from the Classification search form using any criteria available.
-
+<!-- TODO: Image -->
 <figure>
     <img class="screenshot" src="src" alt="The important section of the Documentation tab">
     <figcaption>Figure 5.8: The important section of the Documentation tab</figcaption>

@@ -4,7 +4,7 @@
   - [Document History](introduction/document-history.md)
   - [Objective](introduction/objective.md)
   - [Versions](introduction/versions.md)
-    <!-- - [Structure](introduction/structure.md) -->
+  - [Structure](introduction/structure.md)
   - [Historical Background](introduction/historical-background.md)
   - [Prospective Developments](introduction/prospective-developments.md)
 
@@ -28,7 +28,7 @@
   - [License Application Process](ipc-licensing-programme/license-application-process.md)
   - [License Programmes](ipc-licensing-programme/license-programmes.md)
 
-- Participants
+- Participants (Athletes & Guides)
 
   - [Registration & Update](participants/registration-and-update.md)
   - [Classification](participants/classification.md)
@@ -60,6 +60,6 @@
   - [FAQs](help/faqs.md)
 
 
-- Contributing
+- **Contributing**
   - [Contributing Guide](CONTRIBUTING.md)
   - [Code of Conduct](CODE_OF_CONDUCT.md)

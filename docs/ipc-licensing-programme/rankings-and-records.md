@@ -1,13 +1,12 @@
 # Rankings & Records
 
-The IPC publishes up to four types of ranking lists for each sport. An athlete must have achieved a performance at an IPC recognised competition and must hold a valid license as outlined above. Furthermore, different ranking lists have different conditions regarding the sport class status of the athlete at day of the performance (N = _New_, R = _Review_, C = _Confirmed_):
+The IPC publishes up to four types of ranking lists for each sport. An athlete must have achieved a performance at an IPC recognised competition and must hold a valid license as outlined above. Furthermore, different ranking lists have different conditions regarding the sport class status of the athlete at day of the performance (N = *New*, R = *Review*, C = *Confirmed*):
 
 - Official World Rankings (sport class status = R or C)
 - Official Regional Rankings (sport class status = R or C)
 - Annual Best Performance List (sport class status = N, R or C)
   This list includes non-classified, but licensed athletes as well.
 - Minimum Qualification Standard (MQS) lists for particular competitions; for more information and specifications, the respective qualification criteria documents shall be consulted.
--
 
 In general, an athlete requires a valid license before start of an arbitrary competition for recognition of his performances. Additionally, he should be internationally classified so that his performance appears in the official rankings. Rules and regulations might vary in each season so that the related licensing fact sheet has to be consulted.
 

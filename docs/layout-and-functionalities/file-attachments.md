@@ -4,8 +4,6 @@ General requirements for upload of files to SDMS are outlined here. Following ty
 
 ## IPC Eligibility Agreement, Copy of Passport/ID Card & IPC Nationality Validation
 
-<!-- Verify size for this file -->
-
 To be submitted as PDF file not exceeding 1.25 MB. The quality of the scan should ensure that all information is legible. A few NPCs may submit the documentation in hardcopy but are encouraged to submit them electronically via the SDMS.
 
 ## Classification Document (e.g. Medical Diagnostic Form)
