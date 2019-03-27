@@ -40,7 +40,6 @@
   - [NPC License Packages](license-management/npc-license-packages.md)
   - [License Overview & Application](license-management/license-overview-and-application.md)
   - [License Cards](license-management/license-cards.md)
-  - [License Renewal](license-management/license-renewal.md)
   - [Invoices](license-management/invoices.md)
   - [Address Book](license-management/address-book.md)
 

@@ -114,6 +114,11 @@ body .sidebar-toggle span:nth-child(3) {
 
 /****** Content ******/
 
+.table-header{
+  color: #008542;
+  font-weight: bold;
+}
+
 img {
   max-width: 100%;
 }
@@ -138,9 +143,9 @@ img.screenshot {
   -moz-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.5);
   box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.5);
   /* border-radius */
-  border-radius: 5px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
   border: 0px solid #000000;
 }
 
@@ -175,6 +180,32 @@ img.print {
 img.inline-screenshot {
   width: 275px;
   height: 275px;
+  /* box-shadow */
+  -webkit-box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);
+  /* border-radius */
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border: 0px solid #000000;
+}
+
+img.inline-button {
+  height: 50px;
+  /* box-shadow */
+  -webkit-box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);
+  /* border-radius */
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border: 0px solid #000000;
+}
+
+img.license-cards {
+  height: 250px;
   /* box-shadow */
   -webkit-box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);
   -moz-box-shadow: 1px 1px 2px 0px rgba(0, 0, 0, 0.5);

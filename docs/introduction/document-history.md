@@ -2,6 +2,7 @@
 
 | **Version** | **Date** | **Comments**                                                                           |
 | :---------- | :------- | :------------------------------------------------------------------------------------- |
+| 4.3         | Mar 2019 | Online version
 | 4.2         | Jan 2017 | Change in wording regarding need of signatures for IPC Eligibility Agreement           |
 | 4.1         | Dec 2016 | Update of IPC Licensing Programme                                                      |
 | 4.0         | Aug 2015 | Full review in connection with the launch of SDMS 4.0; sub-versions updated            |

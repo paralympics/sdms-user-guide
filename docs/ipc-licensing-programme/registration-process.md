@@ -3,7 +3,7 @@
 The NPC must register those athletes who compete for the respective country. Complete registration and initialization of the review process by the IPC requires following information and documents for each athlete:
 
 - [x] Personal data – passport name, preferred name, gender, date of birth
-- [x] Nationality data – to fulfil the IPC Athlete Nationality Policy (see chapter [IPC Athlete Nationality Policy](#ipc-athlete-nationality-policy))
+- [x] Nationality data – to fulfil the IPC Athlete Nationality Policy (see [IPC Athlete Nationality Policy](#ipc-athlete-nationality-policy))
 - [x] IPC Eligibility Agreement – correctly signed (see [IPC Eligibility Agreement](#ipc-eligibility-agreement))
 - [x] Photo – for guidelines see [File Attachments](layout-and-functionalities/file-attachments.md)
 - [x] Sport Class – for identification of the sport the athlete shall be licensed in
@@ -76,14 +76,13 @@ Before an athlete can be classified in a particular sport, the NPC or NF must su
 
 ### How To: Upload a Medical Diagnostic Form
 
-1. To upload a signed form, please go to *Participants > Athlete Classification* from the menu bar, and open the classification details page of the athlete.
+1. To upload a signed form, please go to *Athletes > Athlete Classification* from the menu bar, and open the classification details page of the athlete.
 2. Click the Documentation tab for the relevant sport (e.g. *Documentation – Swimming*)
-3. Under *Medical Form 1*, click the button provided to upload files from your local computer (see Figure 3.1)
+3. Under *Medical Diagnostic Form, MDF (VI/PI)*, click the button provided to upload files from your local computer (see Figure 3.1)
 4. Find the file on your local computer, click Save to return to the browser, and click the Upload button in the web application to transfer the file to IPC.
-5. If the document is of the correct type and size, it will be available in the slot Medical Form 1 with a link titled *Show Document (PDF)*. Please ensure that the document has been correctly uploaded before closing or leaving the classification detials page.
+5. If the document is of the correct type and size, it will be available in the slot Medical Form 1 with a link. Please ensure that the document has been correctly uploaded before closing or leaving the classification detials page.
 
-<!-- TODO: Image -->
 <figure>
-    <img class="screenshot" src="src" alt="Classification Documentation Tab">
+    <img class="screenshot" src="_img/figures/3.1-classification-documentation-tab.png" alt="Classification Documentation Tab">
     <figcaption>Figure 3.1: Classification Documentation tab</figcaption>
 </figure>

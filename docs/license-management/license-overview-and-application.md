@@ -8,10 +8,9 @@ This screen also functions as a search form for already existing licencss, in ca
 
 Not all athletes registered in SDMS are available to be licensed immediately, in order to restrict NPCs from licensing athletes that are not eligible to compete in IPC competitions. However, the fact that an athlete is listed in this section does not mean they are licensed. Athletes are added to this section in one of two ways:
 
-<!-- TODO: Flowchart for license status -> Alexander did a presentation on this -->
 <figure>
-    <img class="screenshot" src="src" alt="alt">
-    <figcaption>Figure 6.1: Possible license statuses and paths</figcaption>
+<img src="_img/figures/5.1-license-status-flowchart.svg" class="center">
+    <figcaption>Figure 5.1: Possible license statuses and paths</figcaption>
 </figure>
 
 1. Carried over from previous season. This applies to all athletes that were available in the previous season, as long as they are still listed with *Active* career status.
@@ -41,13 +40,12 @@ The following criteria are available from the section’s search form:
 
 After completing the search from and clicking Search, the matching athletes appear in the search grid of Athlete Licenses. In addition to information about their current license status, the date of validity (for licensed athletes) and any comments from IPC are displayed.
 
-<!-- TODO: License search form buttons -->
 <figure>
-    <img class="screenshot" src="src" alt="License search form action buttons">
-    <figcaption>Figure 6.2: License search form action buttons</figcaption>
+    <img class="screenshot" src="_img/figures/5.2-license-overview-buttons.png" alt="License search form action buttons">
+    <figcaption>Figure 5.2: License search form action buttons</figcaption>
 </figure>
 
-With this search, users can perform a number of actions relating to the license status of the searched athletes. NPCs and IPC sport officers (if an NPC requests assistance) can begin the application process by selecting athletes. The application process will be described in detail in sections 6.4.3 through 6.4.5. Also, the *License History* button allows for access to a page with all status changes of a particular athlete, with date and the username responsible for each change listed.
+With this search, users can perform a number of actions relating to the license status of the searched athletes. NPCs and IPC sport officers (if an NPC requests assistance) can begin the application process by selecting athletes. The application process will be described in detail in [License Renewal](license-management/license-renewal.md). Also, the *License History* button allows for access to a page with all status changes of a particular athlete, with date and the username responsible for each change listed.
 
 Additionally, IPC sport officers have three extra buttons available to change the status of a license application: *Freeze*, *Unfreeze* and *Update*. These can all be applied to several athletes at a time. The Freezing and Unfreezing buttosn are for moving athletes between the frozen and regular paths of license application: on clicking, a dialogue box is brought up showing the changes between the paths and with a text area for entering any comments.
 
@@ -71,19 +69,18 @@ Once the user has selected all athletes to license, they can complete step 4 by 
 
 Step 5 is a control step to ensure that the correct athletes have been transferred from the previous screen. All athletes selected in the previous process are displayed in a table, with ID, family name, given name and type (athlete or guide). The NPC, season, sport, and license category are also shown here.
 
-Step 6, shown in Figure 6.4, asks the user to select the license package for this application. All packages with free licenses are displayed and can be selected by clicking the associated row in the grid.
+Step 6, shown in Figure 5.4, asks the user to select the license package for this application. All packages with free licenses are displayed and can be selected by clicking the associated row in the grid.
 
-<!-- TODO: Insert selection of available packages image -->
 <figure>
-    <img class="screenshot" src="src" alt="Step 6, before selection of available packages">
-    <figcaption>Figure 6.3: Step 6, before selection of available packages</figcaption>
+    <img class="screenshot" src="_img/figures/5.3-license-before-selection.png" alt="Step 6 - before selection of available packages">
+    <figcaption>Figure 5.3: Step 6, before selection of available packages</figcaption>
 </figure>
 
 Clicking the row updates the counter of Licenses from selected packages. If enough licenses are available through the selected package, the required licenses counter changes colour to green, as shown below. If more packages are required to complete the application, the colour stays red and the counter is updated to show the remaining number required.
-<!-- TODO: Insert selection of available packages image -->
+
 <figure>
-    <img class="screenshot" src="src" alt="Step 6, sufficient packages have been selected">
-    <figcaption>Figure 6.4: Step 6, sufficient packages have been selected</figcaption>
+    <img class="screenshot" src="_img/figures/5.4-license-after-selection.png" alt="Step 6 - sufficient packages have been selected">
+    <figcaption>Figure 5.4: Step 6, sufficient packages have been selected</figcaption>
 </figure>
 
 The final step of the process is completed by clicking the *Confirm & License* button. As long as enough packages have been selected to cover the required amount, the licenses will then be allotted by SDMS automatically. Each license is assigned an ID for use on the license card, with season, sport, nation and a random 8-digit number. The license is also associated with the correct license package, and the current date is stored as the license’s validity date.

@@ -1,6 +1,6 @@
 # Approval Management
 
-Beginning in 2014, World Para Athletics implemented a process where NPCs could apply for their competitions to be approved and sanctioned in SDMS. NPCs first purchase a number of credits, which are then used to pay for the competition requests so that the requests aren’t held up by financial problems. The process is explained fully from an NPC point of view in the [User Guide](https://db.ipc-services.org/sdms/doc/info/2013_10_07_SDMS_AT_Guide_Competition_Approval.pdf "blank") , also available as the third link under Approval Management).
+Beginning in 2014, World Para Athletics implemented a process where NPCs could apply for their competitions to be approved and sanctioned in SDMS. NPCs first purchase a number of credits, which are then used to pay for the competition requests so that the requests aren’t held up by financial problems. The process is explained fully from an NPC point of view in the [World Para Athletics Competition Approval Guide](https://db.ipc-services.org/sdms/doc/info/2013_10_07_SDMS_AT_Guide_Competition_Approval.pdf) , also available as the third link under Approval Management).
 
 Competition requests in athletics are divided into two categories:
 
@@ -8,11 +8,11 @@ Competition requests in athletics are divided into two categories:
 
 2. IAAF/NF Endorsed competitions: these competitions have IAAF, the international association of athletics federation, as the responsible IF, either through IAAF directly or through the national athletics federation. If they provide competition opportunities for athletes with impairments, World Para Athletics can approve the results for use in the world rankings and in qualifying for major competitions. The fees associated with these competitions is therefore lower, and organised in packages – for updated information, see the section user guide.
 
-World Para Swimming also introduced their own competition approval process from 2016 onwards. However, they only have one tier of approved competitions. The User Guide can be found at [IPC Swimming Competition Approval](https://db.ipc-services.org/sdms/doc/info/2015_12_17_IPC_Swimming_Competition_Approval.pdf "blank").
+World Para Swimming also introduced their own competition approval process from 2016 onwards. However, they only have one tier of approved competitions. The guide can be found at [World Para Swimming Competition Approval Guide](https://db.ipc-services.org/sdms/doc/info/2015_12_17_IPC_Swimming_Competition_Approval.pdf).
 
 ## NPC Credits (World Para Athletics)
 
-The credit applications are handled by the finance department once the NPC have completed the submission as described in the user guide, and can be approved in the same section as invoices from other SDMS modules. See chapter 6.5 for more information on invoice processing. The NPCs are allowed to use their credits to make requests once the invoice has been confirmed paid.
+The credit applications are handled by the finance department once the NPC have completed the submission as described in the user guide, and can be approved in the same section as invoices from other SDMS modules. See [Invoices](license-management/invoices.md) for more information on invoice processing. The NPCs are allowed to use their credits to make requests once the invoice has been confirmed paid.
 
 When an NPC user makes an application that will change the package level of an endorsed competition, a dialogue box appears asking them to confirm the automatic upgrade.
 
@@ -24,24 +24,30 @@ World Para Swimming does not use the credits system; instead individual invoices
 
 Once a request has been submitted and the credits deducted, sport officers can review the application and move it within the approval status flowchart. Only decisions on the competition status are announced within SDMS; NPCs can also submit expressions of interest to hold international classification, but the final decisions are communicated by the IPC Sport committee on our website.
 
-If an NPC has selected an incorrect category (approved or endorsed) in their application, clicking the button *Change Category* will move the application to the correct category. Credits associated with the application will be reimbursed or deducted.
+If an NPC has selected an incorrect category (approved or endorsed) in their application, clicking the button _Change Category_ will move the application to the correct category. Credits associated with the application will be reimbursed or deducted.
 
-Application status changes are shown by red and green lamps next to the currently valid status and action. For example, a newly submitted request is waiting for IPC review, and hence the lamps next to *New* status and *IPC Athletics to review* action are shown in green for such requests.
+Application status changes are shown by red and green lamps next to the currently valid status and action. For example, a newly submitted request is waiting for IPC review, and hence the lamps next to _New_ status and _IPC Athletics to review_ action are shown in green for such requests.
+
+<figure>
+    <img class="screenshot" src="_img/figures/6.1-competition-approval-status-npc.png" alt="Approval Status - NPCs">
+    <figcaption>Figure 6.1: Approval Status - NPCs</figcaption>
+</figure>
 
 The possible statuses are:
+
 - **New:** all newly submitted requests receive this status. If all data is correctly entered, a decision can be made on the request directly: it can be Approved or Not Approved.
-  
+
 - **Incomplete:** If data is not correctly entered, IPC change the status from New or Updated to Incomplete and ask the submitting organization to complete the request. A comment dialogue box will appear to input information for the NPCs to use when they will improve the application; this comment and the status will then be displayed at the top of the application form. As IPC now await a response from the organisers, they should not change the status further before they receive new information.
-  
+
 - **Updated:** This is the only status NPCs can change; when they submit an updated request previously said to be incomplete, SDMS automatically changes the status to Updated. The request then goes back to application review as if it had been newly submitted.
-  
+
 - **Approved:** After IPC are satisfied with the information submitted, through any number of update cycles, they can approve the competition. The local organisers can no longer change their data once the IPC have made the approval decision – this can only be done by IPC officers. Once the competition has been approved, it should also be uploaded to the website to inform the public of its existence.
 
 - **Not Approved:** IPC reserves the right not to approve competition requests for any reason. As with an incomplete application, a comment dialogue box appears to explain the reason for the decision. In the database, this resets the Level of Designation to nothing, and the competition should obviously not be uploaded to the website.
-<!-- TODO: Screenshot -->
+
 <figure>
-    <img class="screenshot" src="src" alt="The Approval Status screen. This competition has been Approved, signified by the green light below the Approved box.">
-    <figcaption>Figure 7.1: The Approval Status screen. This competition has been Approved, signified by the green light below the Approved box.</figcaption>
+    <img class="screenshot" src="_img/figures/6.2-competition-approval-status-ipc.png" alt="Approval Status Screen - IPC Officers">
+    <figcaption>Figure 6.2: Approval Status Screen - IPC Officers</figcaption>
 </figure>
 
 IPC can change all statuses – except to change back to New once the request has been reviewed. However, IPC users are recommended to follow the procedure outlined by the flowchart.
@@ -50,11 +56,10 @@ IPC officers can also delete a request, in which case the associated competition
 
 When an NPC submits a request, the competition is added to the SDMS calendar with the organiser information as supplied in the request. This information will be visible from the Calendar > Competition details page, as well as from the website for uploaded competitions.
 
-If someone discovers the application has been placed in the wrong category, IPC users can move the competition between IAAF/NF Endorsed and IPC Approved categories with the *Change Category* button. When clicked, a dialogue box appears asking the user to confirm the change and informing the user what will happen when the category is changed. SDMS then reimburses any credits spent on the previous application, deducts credits for the new application, and deletes category specific information.
+If someone discovers the application has been placed in the wrong category, IPC users can move the competition between IAAF/NF Endorsed and IPC Approved categories with the _Change Category_ button. When clicked, a dialogue box appears asking the user to confirm the change and informing the user what will happen when the category is changed. SDMS then reimburses any credits spent on the previous application, deducts credits for the new application, and deletes category specific information.
 
 The application form is optimised for web input, and may not be easy to read or print for hard copy purposes. Therefore, SDMS offers a button to **Print PDF Summary** of each application. NPCs are not required to send this PDF as documentation to IPC, as the PDF merely duplicates the information already sent through SDMS. The radio buttons and checkboxes are copied across as form boxes.
 
 ## International Classification Evaluation
 
-Once an NPC has requested to host an IPC Approved competition, they may additionally go to the *Classification Request* form to submit an Expression of Interest to host a classification opportunity. Following this submission, IPC can give their feedback on the proposed classification schedule and data by changing the *Approval Status* from *New* to *Approved* or *Not Approved*.
-
+Once an NPC has requested to host an IPC Approved competition, they may additionally go to the _Classification Request_ form to submit an Expression of Interest to host a classification opportunity. Following this submission, IPC can give their feedback on the proposed classification schedule and data by changing the _Approval Status_ from _New_ to _Approved_ or _Not Approved_.

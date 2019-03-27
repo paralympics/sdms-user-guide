@@ -11,13 +11,13 @@ The header of SDMS and any of its modules consists of three sections. When the u
 
 Following options are available:
 
-| **Section**   | **Purpose**                                                |
-| :------------ | :--------------------------------------------------------- |
-| Home          | Go back to the start page.                                 |
-| Sitemap       | Shows all pages your user can access, sorted by menu item. |
-| SDMS Manual   | Open the SDMS Manual (by default: Version B for NPCs).     |
-| Edit Password | Open the password editor (see chapter 2.1.4).              |
-| Logout        | Conduct a user logout.                                     |
+| **Section**   | **Purpose**                                                                                           |
+| :------------ | :---------------------------------------------------------------------------------------------------- |
+| Home          | Go back to the start page.                                                                            |
+| Sitemap       | Shows all pages your user can access, sorted by menu item.                                            |
+| SDMS Manual   | Open the SDMS Manual (by default: Version B for NPCs).                                                |
+| Edit Password | Open the password editor (see [Security and Passwords](layout-and-functionalities/access.md#security-and-passwords)). |
+| Logout        | Conduct a user logout.                                                                                |
 
 ## Primary Menu
 

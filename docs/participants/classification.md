@@ -10,10 +10,10 @@ Only active athletes are displayed in this section. If an athlete retires, the c
 
 ## Search form
 
-In addition to the fields displayed on the athlete search grid, the grid also shows the sport and class of each athlete. The table below lists the possible search fields; none are compulsory, by default the grid displays all athletes which the user can access. Only active athletes are displayed in this search; if a user wishes to access information of retired athletes, they must change the career status (see [Caree Status Updates](participants/registration-and-update.md#career-status-updates)) of the athlete before being able to access information from here.
+In addition to the fields displayed on the athlete search grid, the grid also shows the sport and class of each athlete. The table below lists the possible search fields; none are compulsory, by default the grid displays all athletes which the user can access. Only active athletes are displayed in this search; if a user wishes to access information of retired athletes, they must change the career status (see [Career Status Updates](participants/registration-and-update.md#career-status-updates)) of the athlete before being able to access information from here.
 
 | **Field**         | **Format**        | **Comments**                       |
-|-------------------|-------------------|------------------------------------|
+| ----------------- | ----------------- | ---------------------------------- |
 | **SDMS ID**       | integer boxes     | enter single ID for single athlete |
 | **Family name**   | text (30)         |                                    |
 | **Given name**    | text (30)         |                                    |
@@ -28,16 +28,15 @@ When opening an athlete’s classification details page (Figure 5.7), each class
 
 The Classification tab further contains a visual overview of all registered classification, offered from the *Analysis (PDF)* button. It is also possible to update the class status of registered results depending on the newly entered classification information; this is done via the *Apply to Results* button. The process of applying classification changes is also performed automatically whenever users enter a new classification or when new results are added to SDMS.
 
-<!-- TODO: Image -->
 <figure>
-    <img class="screenshot" src="src" alt="Classification Details tab">
-    <figcaption>Figure 5.7: Classification Details tab</figcaption>
+    <img class="screenshot" src="_img/figures/4.6-classification-details-tab.png" alt="Classification Details tab">
+    <figcaption>Figure 4.6: Classification Details tab</figcaption>
 </figure>
 
 In the table below, the fields are listed in the format they can be accessed from the *New Classification* form (Figure 5.8) when defining a new classification for an athlete.
 
 | **Field**                  | **Format**                                               | **Comments**                                                                          |
-|----------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------|
+| -------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | **Sport**                  | drop-down box [sport]                                    |                                                                                       |
 | **Class**                  | 3 drop-down boxes [class]                                | populated on sport selection. A new classification is created on each class selection |
 | **Status**                 | *Confirmed*, *New*, or *Review*                          | applies to all selected classes                                                       |
@@ -52,21 +51,21 @@ In the table below, the fields are listed in the format they can be accessed fro
 
 The *Profile* tab displays information about the athlete’s medical details. This tab is organized in sections by sport, with each section having text areas or text fields specific to the classification report compiled by classifiers in each sport. In the following table, the general fields are listed first, followed by sport-specific fields.
 
-| **Field**                      | **Format**                | **Comments**                                      |
-|--------------------------------|---------------------------|---------------------------------------------------|
-| **Diagnosis**                  | text area                 |                                                   |
-| **Physical Assessment**        | text area                 |                                                   |
-| **Medical Assessment**         | text area                 |                                                   |
-| **Observation**                | text area                 |                                                   |
-| **Exceptions**                 | text area (30 characters) |                                                   |
-| **Comments**                   | text area                 |                                                   |
-| **Training Sessions per Week** | text field                | should be given as a number                       |
-| **Athletics**                  |                           |                                                   |
-| **F45 Subclass**               | text field                | 1 character                                       |
-| **Height**                     | text field                | maximum standing height (cm)                      |
-| **Shooting**                   |                           |                                                   |
-| **Class Specification**        | text fields               | For SH1 and SH2, there exist A/B/C specifications |
-| **Visible Free Height**        | text field                | in cm                                             |
+| **Field**                                   | **Format**                | **Comments**                                      |
+| ------------------------------------------- | ------------------------- | ------------------------------------------------- |
+| **Diagnosis**                               | text area                 |                                                   |
+| **Physical Assessment**                     | text area                 |                                                   |
+| **Medical Assessment**                      | text area                 |                                                   |
+| **Observation**                             | text area                 |                                                   |
+| **Exceptions**                              | text area (30 characters) |                                                   |
+| **Comments**                                | text area                 |                                                   |
+| **Training Sessions per Week**              | text field                | should be given as a number                       |
+| <span class="table-header">Athletics</span> |                           |                                                   |
+| **F45 Subclass**                            | text field                | 1 character                                       |
+| **Height**                                  | text field                | maximum standing height (cm)                      |
+| <span class="table-header">Shooting</span>  |                           |                                                   |
+| **Class Specification**                     | text fields               | For SH1 and SH2, there exist A/B/C specifications |
+| **Visible Free Height**                     | text field                | in cm                                             |
 
 ## Documentation
 The Documentation tab allows for uploading and accessing sheets and forms relating to classification issues. Each athlete has one documentation tab per sport they are classified in.
@@ -74,16 +73,16 @@ The Documentation tab allows for uploading and accessing sheets and forms relati
 ### Upload a Medical Diagnostic Form
 
 1. Search for the athlete from the Classification search form using any criteria available.
-<!-- TODO: Image -->
+
 <figure>
-    <img class="screenshot" src="src" alt="The important section of the Documentation tab">
-    <figcaption>Figure 5.8: The important section of the Documentation tab</figcaption>
+    <img class="screenshot" src="_img/figures/4.7-classification-documentation-tab.png" alt="The important section of the Documentation tab">
+    <figcaption>Figure 4.7: The important section of the Documentation tab</figcaption>
 </figure>
    
 1. If you have any documents to upload, go to the Documentation tab of the relevant sport.
    
-2. Click *Choose File* in the Medical Form 1 row.
+2. Click *Browse* in the Medical Form 1 row.
    
-3. Select the document from your local hard drive or network, and click *Open* (may be dependent on your language settings or browser). If successful, the file name should appear next to the *Choose File* button.
+3. Select the document from your local hard drive or network, and click *Open* (may be dependent on your language settings or browser). If successful, the file name should appear.
    
-4. Click the *Upload* button on top of the Documentation tab to upload the document to SDMS servers. Any file previously accessible from that specific row is automatically moved to the *Historical Classification Files* section.
+4.The files are then automatically uploaded to the SDMS servers. Any file previously accessible from that specific row is automatically moved to the *File Archive* section.

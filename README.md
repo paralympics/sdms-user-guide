@@ -36,7 +36,7 @@ You do not neccessarily have to read the whole of this documentaion in order to 
 
 ## Feedback
 
-Find a bug or have a feature request for SDMS? Please file an [issue](https://github.com/paralympics/sdms-user-guide/issues "blank")!
+Find a bug or have a feature request for SDMS? Please file an [issue](https://github.com/paralympics/sdms-user-guide/issues)!
 
 > Please read the documentation or search in the issues before you post so as to avoid duplicates.
 
