@@ -26,9 +26,9 @@ As the name suggests SDMS is an application the IPC uses for the management of a
 
 Dive right into learning about SDMS -> [start here](https://paralympics.github.io/sdms-user-guide/#/layout-and-functionalities/access)
 
-## Troubleshooting
+<!--## Troubleshooting
 
-If you are experiencing some minor issues with SDMS please check [Troubleshooting](https://paralympics.github.io/sdms-user-guide/#/help/troubleshooting) or [FAQs](https://paralympics.github.io/sdms-user-guide/#/help/faqs).
+If you are experiencing some minor issues with SDMS please check [Troubleshooting](https://paralympics.github.io/sdms-user-guide/#/help/troubleshooting) or [FAQs](https://paralympics.github.io/sdms-user-guide/#/help/faqs).-->
 
 ## Reading Documentation
 
