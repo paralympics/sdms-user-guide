@@ -7,7 +7,7 @@ IPC issues license and ID cards through SDMS, for use as proof of identification
     <figcaption>Figure 5.5: Sample athlete ID card</figcaption>
 </figure>
 
-Sample pictures of the license and ID cards are shown in Figures 6.5 and 6.6. The standard personal information such as name, NPC, gender and date of birth are included on both; the ID card includes a photograph and the dates of issue and expiry, while the license card includes details on the sport the athlete is licensed to compete and the timeframe of validity for the license.
+Sample pictures of the license and ID cards are shown in Figures 5.5 and 5.6. The standard personal information such as name, NPC, gender and date of birth are included on both; the ID card includes a photograph and the dates of issue and expiry, while the license card includes details on the sport the athlete is licensed to compete and the timeframe of validity for the license.
 
 <figure>
     <img class="license-cards center" src="_img/figures/5.6-athlete-license-card.png" alt="Sample athlete license card">
