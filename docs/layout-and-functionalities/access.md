@@ -2,8 +2,7 @@
 
 ## SDMS Website
 
-As being an online application, the IPC Sport Data Management System is accessible on the
-Internet by inserting the following URL in the browser of your choice
+As an online application, the IPC Sport Data Management System is accessible on the Internet by inserting the following URL in the browser of your choice
 
 [http://www.paralympic.org/sdms](http://www.paralympic.org/sdms)
 
