@@ -7,11 +7,11 @@ A classification report can only be produced for one sport at a time; therefore,
 ## License Status
 
 The final compulsory field is the *License Status* drop-down box. This controls the license status of the included athletes. By default, the report only includes athletes who are (were, for past seasons) licensed for the selected season. To change this, there are five options:
-- **Active:** shows only athletes with an active license for the selected season
-- **Active & Pending:** also include athletes with Pending status (payment pending, only for winter sports)
-- **Registered:** shows all athletes who do not have a cancelled license status, i.e., those whose registrations have been reviewed and approved in the License Renewal section
-- **Registered & Cancelled:** shows all athletes in the license database for that particular season
-- **Complete Database:** shows all athletes with an SDMS ID. Choose this option if you do not want to restrict the search to a particular season.
+- **Licensed:** shows only athletes with an active license for the selected season
+- **Licensed & Pending:** filters all athletes with active or pending licence status for the selected season
+- **Registered:** all athletes from the licence management that have been accepted for the selected season unless they have an incomplete, cancelled or frozen licence status
+- **Registered & Cancelled:** shows all athletes from the licence management for the selected season
+- **Complete Database:** shows all athletes in the entire database (with an SDMS ID). Choose this option if you do not want to restrict the search to a particular season.
 
 ## Other Options
 
