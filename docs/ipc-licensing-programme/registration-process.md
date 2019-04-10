@@ -55,7 +55,7 @@ Recognition of results achieved for the previous country, especially for qualifi
 
 ## IPC Eligibility Agreement
 
-Registration of an athlete can only be completed if he agrees to a set of IPC policies, rules, regulations, and acceptances. This form is called the IPC Eligibility Agreement. The most updated version can be found by clicking the information button in the Eligibility Agreement field when registering an athlete, or from each World Para sport website.
+Registration of an athlete can only be completed if he agrees to a set of IPC policies, rules, regulations, and acceptances. This form is called the IPC Eligibility Agreement. The most updated version can be found by clicking the information button in the Eligibility Agreement field when registering an athlete, or from each World Para Sport website.
 
 At the top, a few key details identify the athlete by responsible NPC, name, date of birth, gender, and sport. At the bottom, following signatures are required:
 
