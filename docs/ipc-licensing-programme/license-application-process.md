@@ -42,15 +42,6 @@ While licenses were bought for individual athletes in both summer and winter spo
 
 5. Once the payment is confirmed, all athletes are *Licensed*. Consult [License Fees and Validity](#license-fees-and-validity) for rules of license validity.
 
-## Payment Options
-
-The standard payment option is the bank transfer order. The IPC bank account details are indicated on the invoice. The payer shall ensure that he bears for any additional bank fees.
-
-> [!DANGER]
-> The invoice number or numbers covered by the payment shall be indicated during the remittance order. The payer’s effort in this regard is appreciated for simplification of payment identification and to avoid delays in the licensing process.
-
-Credit card payment is no longer available. In exceptional cases, a specific request for an alternative solution may be sent to the IPC Finance Department if the standard method of money transfer does not work due to country-specific restrictions and limitations.
-
 ## License Fees and Validity
 
 The license fee and validity policy might vary from season to season by sport. Details about the currently applied fee structure can be found in the letter about the IPC Licensing Programme of the respective season.
@@ -75,10 +66,22 @@ The license fee (on a per-sport basis) will be invoiced annually and will allow 
 
 NPCs do not need to apply for any license package or invoice. An invoice for licences per Sport will be created automatically by SDMS at the start of each season and should be downloaded by the NPC via SDMS. However, address and tax information must be completed by the NPC before the invoice is valid.
 
-Please transfer the amount in question to the account indicated on the invoice. If the package is bought and athletes are licensed before 31 December 2016 their licences are valid from 01 January 2017 onwards. After 01 January 2017, the licences will be active from the date of activation.
+Please transfer the amount in question to the account indicated on the invoice. If the package is bought and athletes are licensed before 31 December their licences are valid from 01 January onwards. After 01 January, the licences will be active from the date of activation.
 
 The validity of a license generally begins on the day when the NPC officially licensed the athlete with help of purchased and paid license package until the 31 December of the respective season. Since the licensing programme usually opens in October or November, meaning two or three months before the start of the season, licenses allocated before 1 January are valid from the start of the season onwards.
 
-In winter sports, license penalties are applied after a specific date announced in the annual letter but only to athletes who had been already registered and licensed in a previous season. Since migration of the winter sports to SDMS, this key date is set to 1 October in all sports; only current exception is Para ice hockey for season 2014/15 with 1 September as deadline. The penalty fee for hockey teams automatically applies after the deadline even if the country had never licensed a team before.
+In winter sports, license penalties are applied after a specific date announced in the annual letter but only to athletes who had been already registered and licensed in a previous season. Since migration of the winter sports to SDMS, this key date is set to 1 October in all sports; only current exception is Para Ice Hockey for season 2014/15 with 1 September as deadline. The penalty fee for hockey teams automatically applies after the deadline even if the country had never licensed a team before.
 
 Winter seasons begin on 1 July and end on 30 June of the next year. Athletes in winter sports are licensed as of the day the IPC Finance Departments registers the final booking of the full amount of payment, and the license expires on 30 June.
+
+## Payment Options
+
+The standard payment option is the bank transfer order. The IPC bank account details are indicated on the invoice. The payer shall ensure that he bears for any additional bank fees.
+
+> [!DANGER]
+> The invoice number or numbers covered by the payment shall be indicated during the remittance order. The payer’s effort in this regard is appreciated for simplification of payment identification and to avoid delays in the licensing process.
+
+Credit card payment is no longer available. In exceptional cases, a specific request for an alternative solution may be sent to the IPC Finance Department if the standard method of money transfer does not work due to country-specific restrictions and limitations.
+
+> [!DANGER]
+> Please indicate the invoice number on the payment form. The IPC has previously faced some problems in tracking payments, leading to a delay in activating licences. We kindly request you to send a proof of payment immediately to the IPC Finance Department at [accounts@paralympic.org](mailto:accounts@paralympic.org) if your payment is not confirmed in SDMS within one week.
