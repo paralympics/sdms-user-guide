@@ -9,7 +9,7 @@ This screen also functions as a search form for already existing licencss, in ca
 Not all athletes registered in SDMS are available to be licensed immediately, in order to restrict NPCs from licensing athletes that are not eligible to compete in IPC competitions. However, the fact that an athlete is listed in this section does not mean they are licensed. Athletes are added to this section in one of two ways:
 
 <figure>
-<img src="_img/figures/5.1-license-status-flowchart.svg" class="center">
+<img class="center" src="_img/figures/5.1-license-status-flowchart.svg" alt="License Status Flowchart">
     <figcaption>Figure 5.1: Possible license statuses and paths</figcaption>
 </figure>
 
@@ -17,7 +17,7 @@ Not all athletes registered in SDMS are available to be licensed immediately, in
 
 2. Added from the License Renewal screen as a new registration. Whether an athlete is registered as licensed within SDMS or not is shown by the license *status*.
 
-At the beginning of the season, all athletes carried over from the previous season are assigned the license status *New*, and when the licensing process is complete for that athlete, the status changes to *Licensed*. All possible statuses, and how they can be changed by the respectively authorised users, are shown in Figure 6.1.
+At the beginning of the season, all athletes carried over from the previous season are assigned the license status *New*, and when the licensing process is complete for that athlete, the status changes to *Licensed*. All possible statuses, and how they can be changed by the respectively authorised users, are shown in Figure 5.1.
 
 Within a season, athletes are not removed from this section. If the athlete is for some reason not eligible to compete, they should be moved into the frozen path. Their license status will then depend on where they were in the licensing process before the freezing occurred. The athlete can also be unfrozen if the issue causing ineligibility is resolved. E.g., athletes with incomplete registration would be frozen, but can be unfrozen again and receive status *New* if correct documents are uploaded.
 
@@ -26,7 +26,7 @@ Within a season, athletes are not removed from this section. If the athlete is f
 The following criteria are available from the section’s search form:
 
 | **Field**            | **Format**                       | **Comments**                                                                                                            |
-|----------------------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| -------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **License Category** | drop-down box [License Category] | obligatory, to distinguish between the type of license you apply for                                                    |
 | **Season**           | drop-down box [Season]           | obligatory, currently active seasons listed on top. Seasons with read-only status can be selected for archive purposes. |
 | **NPC**              | drop-down box [NPC]              | obligatory, automatically restricted by user rights                                                                     |
