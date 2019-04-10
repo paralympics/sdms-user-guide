@@ -55,9 +55,8 @@
 
 - Help
   - [Glossary](help/glossary.md)
-  <!--- [Troubleshooting](help/troubleshooting.md)
-  - [FAQs](help/faqs.md)-->
-
+  <!-- - [Troubleshooting](help/troubleshooting.md) -->
+  <!-- - [FAQs](help/faqs.md) -->
 
 - **Contributing**
   - [Contributing Guide](CONTRIBUTING.md)
