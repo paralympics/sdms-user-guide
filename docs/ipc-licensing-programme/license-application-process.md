@@ -85,3 +85,27 @@ Credit card payment is no longer available. In exceptional cases, a specific req
 
 > [!DANGER]
 > Please indicate the invoice number on the payment form. The IPC has previously faced some problems in tracking payments, leading to a delay in activating licences. We kindly request you to send a proof of payment immediately to the IPC Finance Department at [accounts@paralympic.org](mailto:accounts@paralympic.org) if your payment is not confirmed in SDMS within one week.
+
+## Licensing Regulations
+
+### Summer Sports
+
+There are no major changes to the regulations for 2019. However, we remind you of the following requirements:
+
+- All athletes in Shooting MUST have a completed Athlete Epilepsy Declaration Form uploaded to their SDMS profile in order to complete athlete registration and be eligible for licensing.
+
+- All athletes in Athletics and Swimming with an intellectual impairment (T/F20 in Athletics, S14 in Swimming), who hold New “N” or Review “R” sport class status, MUST have a completed Training History and Sport Activity Limitation Questionnaire (TSAL-Q) not older than 12 months, uploaded to their SDMS profile, and must have met the INAS Eligibility Criteria (checked through the INAS Eligibility Masterlist) in order to complete athlete registration and be eligible for licensing.
+
+- All athletes in all sports (Athletics, Swimming, Powerlifting, Shooting and Dance Sport) with a physical or vision impairment (PI and VI), who hold New “N”, Review “R” or Review 2019 sport class status, MUST have a completed Medical Diagnostic Form (MDF) and supporting medical documents (if applicable) uploaded to their SDMS profile in order to complete athlete registration and be eligible for licensing.
+
+- To be eligible to be licensed, or relicensed, to participate in IPC competitions all athletes are required to agree to the terms outlined in the IPC Athlete Eligibility Agreement (version two). Those athletes who signed version one, however, are not required to sign version two (but certainly may do so if desired). Instead, these athletes’ respective NPCs will be required to supply such athletes with a copy of version two and ensure those athletes accept the terms of version two. NPCs will be required to confirm that these steps have been completed as provided in SDMS. Any athlete who does not agree to the terms of version two will not be relicensed.
+
+- An athlete needs to be licensed prior to a competition for his/her results to be recognised for rankings and records. The unlimited licence packages allow immediate licensing after confirmed registration.
+
+- Since 2012 guide runners for athletes with a visual impairment must obtain a World Para Athletics licence in order to compete in track events at the Paralympic Games, World Championships and Regional Championships and some specific World Para Sport Recognised Competitions. The licensing process for athletes and guides remains the same.
+
+- An athlete with a New “N” or Review “R with no fixed date” sport class status needs to undergo an international classification assessment within six (6) weeks in Athletics, Powerlifting, Shooting and Swimming after a record breaking performance for official record recognition.
+
+- Athlete Identification Cards and seasonal Licence Cards can be printed out for the new summer season 2019. SDMS offers a section under **Licence Management** to select licensed athletes and download their cards as PDF files for printing and distribution.
+
+Please find attached the [IPC Athletes Registration and Licensing Policies Fact Sheet](help/athletes-registration-and-licensing-policies-fact-sheet.md) for more information.
