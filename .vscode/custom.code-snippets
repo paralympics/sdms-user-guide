@@ -54,7 +54,7 @@
     "prefix": "footnote",
     "body": [
       "<p class=\"footnote\">",
-      "    <small >${1:Description}</small>",
+      "    <small>${1:Description}</small>",
       "</p>"
     ],
     "description": "Footnote"
