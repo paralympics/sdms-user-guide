@@ -24,16 +24,16 @@ In addition to the fields displayed on the athlete search grid, the grid also sh
 
 ## Details
 
-When opening an athlete’s classification details page (Figure 5.7), each classification instance has its own row in its respective section (*Current or Historical*). Any current classification not with *New* status should be accompanied by documentation and confirmation from classifiers. If the athlete’s class changes, this should be documented by adding a new classification section and moving the outdated one to *Historical* status.
+When opening an athlete’s classification details page (Figure 4.6), each classification instance has its own row in its respective section (*Current or Historical*). Any current classification not with *New* status should be accompanied by documentation and confirmation from classifiers. If the athlete’s class changes, this should be documented by adding a new classification section and moving the outdated one to *Historical* status.
 
-The Classification tab further contains a visual overview of all registered classification, offered from the *Analysis (PDF)* button. It is also possible to update the class status of registered results depending on the newly entered classification information; this is done via the *Apply to Results* button. The process of applying classification changes is also performed automatically whenever users enter a new classification or when new results are added to SDMS.
+The process of applying classification changes is performed automatically whenever users enter a new classification or when new results are added to SDMS.
 
 <figure>
     <img class="screenshot" src="_img/figures/4.6-classification-details-tab.png" alt="Classification Details tab">
     <figcaption>Figure 4.6: Classification Details tab</figcaption>
 </figure>
 
-In the table below, the fields are listed in the format they can be accessed from the *New Classification* form (Figure 5.8) when defining a new classification for an athlete.
+In the table below, the fields are listed in the format they can be accessed from the *New Classification* form when defining a new classification for an athlete.
 
 | **Field**                  | **Format**                                               | **Comments**                                                                          |
 | -------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -67,8 +67,8 @@ The *Profile* tab displays information about the athlete’s medical details. Th
 | **Class Specification**                     | text fields               | For SH1 and SH2, there exist A/B/C specifications |
 | **Visible Free Height**                     | text field                | in cm                                             |
 
-## Documentation
-The Documentation tab allows for uploading and accessing sheets and forms relating to classification issues. Each athlete has one documentation tab per sport they are classified in.
+## Files
+The Files tab allows for uploading and accessing sheets and forms relating to classification issues. Each athlete has one files tab per sport they are classified in.
 
 ### Upload a Medical Diagnostic Form
 
@@ -76,10 +76,10 @@ The Documentation tab allows for uploading and accessing sheets and forms relati
 
 <figure>
     <img class="screenshot" src="_img/figures/4.7-classification-documentation-tab.png" alt="The important section of the Documentation tab">
-    <figcaption>Figure 4.7: The important section of the Documentation tab</figcaption>
+    <figcaption>Figure 4.7: The important section of the Files tab</figcaption>
 </figure>
    
-1. If you have any documents to upload, go to the Documentation tab of the relevant sport.
+1. If you have any documents to upload, go to the Files tab of the relevant sport.
    
 2. Click *Browse* in the Medical Form 1 row.
    
