@@ -108,4 +108,4 @@ There are no major changes to the regulations for 2019. However, we remind you o
 
 - Athlete Identification Cards and seasonal Licence Cards can be printed out for the new summer season 2019. SDMS offers a section under **Licence Management** to select licensed athletes and download their cards as PDF files for printing and distribution.
 
-Please find attached the [IPC Athletes Registration and Licensing Policies Fact Sheet](help/athletes-registration-and-licensing-policies-fact-sheet.md) for more information.
+Please find attached the [IPC Athletes Registration and Licensing Policies Fact Sheet](help/athlete-registration-and-licensing-fact-sheet.md) for more information.
