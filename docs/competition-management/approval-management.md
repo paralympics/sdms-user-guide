@@ -26,7 +26,7 @@ Once a request has been submitted and the credits deducted, sport officers can r
 
 If an NPC has selected an incorrect category (approved or endorsed) in their application, clicking the button _Change Category_ will move the application to the correct category. Credits associated with the application will be reimbursed or deducted.
 
-Application status changes are shown by red and green lamps next to the currently valid status and action. For example, a newly submitted request is waiting for IPC review, and hence the lamps next to _New_ status and _IPC Athletics to review_ action are shown in green for such requests.
+Application status changes are shown at the top of the _Application Form_ tab. An example of an approved request is shown in Figure 6.1.
 
 <figure>
     <img class="screenshot" src="_img/figures/6.1-competition-approval-status-npc.png" alt="Approval Status - NPCs">
@@ -44,6 +44,8 @@ The possible statuses are:
 - **Approved:** After IPC are satisfied with the information submitted, through any number of update cycles, they can approve the competition. The local organisers can no longer change their data once the IPC have made the approval decision – this can only be done by IPC officers. Once the competition has been approved, it should also be uploaded to the website to inform the public of its existence.
 
 - **Not Approved:** IPC reserves the right not to approve competition requests for any reason. As with an incomplete application, a comment dialogue box appears to explain the reason for the decision. In the database, this resets the Level of Designation to nothing, and the competition should obviously not be uploaded to the website.
+
+The figure below shows the _Approval Status_ tab that is only accesible to IPC Officers. This gives an overview of the approval status process.
 
 <figure>
     <img class="screenshot" src="_img/figures/6.2-competition-approval-status-ipc.png" alt="Approval Status Screen - IPC Officers">
