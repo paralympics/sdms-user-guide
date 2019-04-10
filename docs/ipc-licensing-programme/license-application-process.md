@@ -7,6 +7,7 @@ While licenses were bought for individual athletes in both summer and winter spo
 > How To: License an athlete in a summer sport.
 
 1. Register a new athlete or update an existing athlete by uploading all required data and documents as explained in [Registration Process](ipc-licensing-programme/registration-process.md).
+   
 2. Wait for 1-2 workdays until the IPC Sport has reviewed the registration so that the athlete appears in the license section with status *New* (see [License Overview & Application](license-management/license-overview-and-application.md)).
 
    a. If the status is not valid, comments explain the issue to be resolved. Once resolved, the assistant within the IPC Sport shall be contacted for review request of the updated documents or data.
@@ -16,13 +17,15 @@ While licenses were bought for individual athletes in both summer and winter spo
    c. If the athlete still does not appear although the profile is correctly filled, the IPC Sport shall be contacted.
 
 3. Make sure that your NPC or NF has paid the licensing invoice for the actual season (see [NPC License Packages](license-management/npc-license-packages.md)). When the licensing invoice has been paid, you can license an unlimited number of athletes.
-4. Go to the License Overview & Application page, and select the athlete(s) to be licensed in a specific sport for the actual or next season (see [License Search Form](license-management/license-overview-and-application.md#license-search-form). After final confirmation, all athletes are immediately *Licensed*. Consult [License Fees and Validity](#license-fees-and-validity) for rules of license validity.
+
+4. Go to the **License Overview & Application** page, and select the athlete(s) to be licensed in a specific sport for the actual or next season (see [License Overview & Application](license-management/license-overview-and-application.md)). After final confirmation, all athletes are immediately Licensed. Consult [License Application Process](ipc-licensing-programme/license-application-process.md#license-fees-and-validity) for rules of license validity.      
 
 ## Winter Sport Licenses - Individual Application
 
 > How To: License an athlete in a winter sport.
 
 1. Register a new athlete or update an existing athlete by uploading all required data and documents as explained in [Registration Process](ipc-licensing-programme/registration-process.md).
+   
 2. Wait for 1-2 workdays until the IPC Sport has reviewed the registration so that the athlete appears in the license section with status New (see [License Overview & Application](license-management/license-overview-and-application.md)).
 
    a. If the status is not valid, comments explain the issue to be resolved. Once resolved, the assistant within the IPC Sport shall be contacted for review request of the updated documents or data.
@@ -32,6 +35,7 @@ While licenses were bought for individual athletes in both summer and winter spo
    c. If the athlete still does not appear although the profile is correctly filled, the IPC Sport shall be contacted.
 
 3. Go to the license page, and select the athlete(s) to be licensed in a specific sport and a specific license programme for the actual or next season (see [License Overview & Application](license-management/license-overview-and-application.md)). During the process, an invoice specifically related to the selected athletes shall be printed and immediately paid. License status changes to *Pending* for all athletes.
+   
 4. Wait for 1-3 weekdays until the IPC Finance Department has confirmed the payment of the license package (see [License Cards](license-management/license-cards.md)). The duration of confirmation might take up to five (5) weekdays depending on your home country and way of payment.
    
    a. If the payment status of the invoice and the license status of the related athletes is still pending after five (5) weekdays, the IPC Finance Department has to be contacted and provided with any kind of proof (signed bank transfer documents, receipts…).
