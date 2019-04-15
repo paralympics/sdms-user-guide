@@ -7,7 +7,7 @@
 Fork the `sdms-user-guide` repository by clicking on the fork button on the top of the main repository page.
 
 <figure>
-    <img class="github-screenshot center" src="_img/inline/github-fork-repo.png" alt="Fork the repository">
+    <img class="github-screenshot center" src="https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/docs/_img/inline/github-fork-repo.png" alt="Fork the repository">
     <figcaption>Fork the repository</figcaption>
 </figure>
 
@@ -16,7 +16,7 @@ Fork the `sdms-user-guide` repository by clicking on the fork button on the top 
 Create a copy of the repository by cloning it to your machine. This is done by clicking the **Clone or download** button.
 
 <figure>
-    <img class="github-screenshot center" src="_img/inline/github-clone-repo.png" alt="Clone the repository">
+    <img class="github-screenshot center" src="https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/docs/_img/inline/github-clone-repo.png" alt="Clone the repository">
     <figcaption>Clone the repository</figcaption>
 </figure>
 
@@ -53,14 +53,14 @@ Replace <name-of-branch> with the name of the branch you created in step 3.
 When you go to the repository on GitHub, there will be a `Compare & pull request` button. Click that button to compare changes across the two branches to analyse if your changes will be automatically merged. 
 
 <figure>
-    <img class="github-screenshot center" src="_img/inline/github-compare-and-pull-request.png" alt="Compare">
+    <img class="github-screenshot center" src="https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/docs/_img/inline/github-compare-and-pull-request.png" alt="Compare">
     <figcaption>Compare</figcaption>
 </figure>
 
 They you now have to submit the pull request.
 
 <figure>
-    <img class="github-screenshot center" src="_img/inline/github-submit-pull-request.png" alt="Submit pull request">
+    <img class="github-screenshot center" src="https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/docs/_img/inline/github-submit-pull-request.png" alt="Submit pull request">
     <figcaption>Submit pull request</figcaption>
 </figure>
 
