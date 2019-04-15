@@ -4,7 +4,7 @@ Some IPC sports have a tiered system of license categories, where one type of li
 
 **IPC Standard License**: Allows recognition of results in all IPC events under the standard rules as explained above.
 
-**Women’s Team Licensing**: In ice sledge hockey, women’s teams are licensed separately and for lower fees than the standard team in order to stimulate the development of women’s ice sledge hockey. Women can also play as part of a mixed team; if so, they should be licensed using the standard programme.
+**Women's Team Licensing**: In ice sledge hockey, women's teams are licensed separately and for lower fees than the standard team in order to stimulate the development of women's ice sledge hockey. Women can also play as part of a mixed team; if so, they should be licensed using the standard programme.
 
 **National License**: In Para Alpine skiing, athletes can obtain a National license to compete in certain low-level competitions. The price is lower, but the athletes are not eligible to earn points for the official rankings.
 

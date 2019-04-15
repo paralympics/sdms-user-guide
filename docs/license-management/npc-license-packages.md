@@ -28,6 +28,6 @@ Before completing the invoice, the buyer must enter their address in the fields,
 | **Postal Code & City** | Text field |                 |
 | **Country**            | Text field | Name in English |
 
-For countries in the European Union, VAT (value added tax) information must also be included, as a VAT is levied on the licenses. Please indicate whether the invoiced organization is a taxable person, and if so, your VAT number; this will be checked against the [European Commission’s VIES database](http://ec.europa.eu/taxation_customs/vies/).
+For countries in the European Union, VAT (value added tax) information must also be included, as a VAT is levied on the licenses. Please indicate whether the invoiced organization is a taxable person, and if so, your VAT number; this will be checked against the [European Commission's VIES database](http://ec.europa.eu/taxation_customs/vies/).
 
 Once the order is submitted, the user processes the invoice and bank payments, and then waits for IPC Finance Department to confirm the payment. The package is listed as ‘Pending’ from the search form until this confirmation is obtained, and the package can not be used to license further athletes until payment is confirmed and the status is changed to *Paid*.

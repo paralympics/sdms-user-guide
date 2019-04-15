@@ -1,6 +1,6 @@
 # Approval Management
 
-Beginning in 2014, World Para Athletics implemented a process where NPCs could apply for their competitions to be approved and sanctioned in SDMS. NPCs first purchase a number of credits, which are then used to pay for the competition requests so that the requests aren’t held up by financial problems. The process is explained fully from an NPC point of view in the [World Para Athletics Competition Approval Guide](https://db.ipc-services.org/sdms/doc/info/2013_10_07_SDMS_AT_Guide_Competition_Approval.pdf) , also available as the third link under Approval Management).
+Beginning in 2014, World Para Athletics implemented a process where NPCs could apply for their competitions to be approved and sanctioned in SDMS. NPCs first purchase a number of credits, which are then used to pay for the competition requests so that the requests are not held up by financial problems. The process is explained fully from an NPC point of view in the [World Para Athletics Competition Approval Guide](https://db.ipc-services.org/sdms/doc/info/2013_10_07_SDMS_AT_Guide_Competition_Approval.pdf) , also available as the third link under Approval Management).
 
 Competition requests in athletics are divided into two categories:
 
@@ -45,7 +45,7 @@ The possible statuses are:
 
 - **Not Approved:** IPC reserves the right not to approve competition requests for any reason. As with an incomplete application, a comment dialogue box appears to explain the reason for the decision. In the database, this resets the Level of Designation to nothing, and the competition should obviously not be uploaded to the website.
 
-The figure below shows the _Approval Status_ tab that is only accesible to IPC Officers. This gives an overview of the approval status process.
+The figure below shows the _Approval Status_ tab that is only accessible to IPC Officers. This gives an overview of the approval status process.
 
 <figure>
     <img class="screenshot" src="_img/figures/6.2-competition-approval-status-ipc.png" alt="Approval Status Screen - IPC Officers">

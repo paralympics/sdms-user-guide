@@ -1,8 +1,8 @@
 # Search Forms & Results Matrix
 
-Each section handling one particular data entity of SDMS, e.g. sports, events, organizations or athletes, has a search functionality to target the user’s data.
+Each section handling one particular data entity of SDMS, e.g. sports, events, organizations or athletes, has a search functionality to target the user's data.
 
-The search page in turns offers a results matrix with an input row for the search criteria. When a new section is opened, the current criteria are automatically applied, along with the user’s permission criteria (for example, an NPC user for Germany will only receive search results about German athletes), and the results are displayed. Generally, the search returns all relevant results when initially opened, and the current criteria can then be modified. When changing the drop-down boxes, the search is automatically reset, while when changing text boxes, users must refresh or press the **Enter** (return) key on their keyboard.
+The search page in turns offers a results matrix with an input row for the search criteria. When a new section is opened, the current criteria are automatically applied, along with the user's permission criteria (for example, an NPC user for Germany will only receive search results about German athletes), and the results are displayed. Generally, the search returns all relevant results when initially opened, and the current criteria can then be modified. When changing the drop-down boxes, the search is automatically reset, while when changing text boxes, users must refresh or press the **Enter** (return) key on their keyboard.
 
 <figure>
     <img class="screenshot" src="_img/figures/2.8-search-results-matrix.png" alt="Search Results Matrix">

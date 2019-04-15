@@ -18,7 +18,7 @@ In July 2012 and October 2012, respectively, SDMS 3.0 and EBS 2.0 were launched,
 
 A major relaunch of the application was carried out in 2014 and 2015, with SDMS 4.0 launched on 3 June 2015. This upgrade was based on up-to-date web application paradigms which offer increased security and streamlined introduction of new features.
 
-Additionally, a version of SDMS developed for the International Blind Sport Federation (IBSA) was launched on 1 January 2015. This system, called IBSA Sport Administration System (ISAS) is integrated with SDMS so that National Paralympic Committes who are also member federations of IBSA can use their SDMS account details in ISAS and transfer between the two applications.
+Additionally, a version of SDMS developed for the International Blind Sport Federation (IBSA) was launched on 1 January 2015. This system, called IBSA Sport Administration System (ISAS) is integrated with SDMS so that National Paralympic Committees who are also member federations of IBSA can use their SDMS account details in ISAS and transfer between the two applications.
 
 <figure>
     <img class="screenshot" src="_img/figures/1.1-database-architecture.png" alt="Database Architecture">

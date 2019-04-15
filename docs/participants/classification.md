@@ -4,7 +4,7 @@ More detailed information about classification, including signed forms, informat
 
 The section is organized by athlete, with a specifically designed search form for classification relevant information. The athlete specific screen is then split into 3 tabs: a Classification tab for viewing, modifying, adding, archiving and deleting classifications, a Profile tab where medical information about current classifications may be added as text, and a Documentation tab for upload of PDF scans of forms and sheets.
 
-Employees in World Para sports are authorized to modify these data, while classifiers, NPCs and LOCs have read-only access. NPCs are also solely allowed to enter an athlete in a *New* class as they wait for their athletes to be classified, but this must be done in the registration section. NPCs can additionally upload some forms on behalf of their athlete, e.g. medical diagnostic forms and equipment designs. These uploads must be done from the *Documentation* tab of the athlete’s classification detail page, by clicking *Choose File* in the correct field and uploading from their own computer system.
+Employees in World Para sports are authorized to modify these data, while classifiers, NPCs and LOCs have read-only access. NPCs are also solely allowed to enter an athlete in a *New* class as they wait for their athletes to be classified, but this must be done in the registration section. NPCs can additionally upload some forms on behalf of their athlete, e.g. medical diagnostic forms and equipment designs. These uploads must be done from the *Documentation* tab of the athlete's classification detail page, by clicking *Choose File* in the correct field and uploading from their own computer system.
 
 Only active athletes are displayed in this section. If an athlete retires, the classification data is still stored, but inaccessible from the web application.
 
@@ -24,7 +24,7 @@ In addition to the fields displayed on the athlete search grid, the grid also sh
 
 ## Details
 
-When opening an athlete’s classification details page (Figure 4.6), each classification instance has its own row in its respective section (*Current or Historical*). Any current classification not with *New* status should be accompanied by documentation and confirmation from classifiers. If the athlete’s class changes, this should be documented by adding a new classification section and moving the outdated one to *Historical* status.
+When opening an athlete's classification details page (Figure 4.6), each classification instance has its own row in its respective section (*Current or Historical*). Any current classification not with *New* status should be accompanied by documentation and confirmation from classifiers. If the athlete's class changes, this should be documented by adding a new classification section and moving the outdated one to *Historical* status.
 
 The process of applying classification changes is performed automatically whenever users enter a new classification or when new results are added to SDMS.
 
@@ -49,7 +49,7 @@ In the table below, the fields are listed in the format they can be accessed fro
 
 ## Profile
 
-The *Profile* tab displays information about the athlete’s medical details. This tab is organized in sections by sport, with each section having text areas or text fields specific to the classification report compiled by classifiers in each sport. In the following table, the general fields are listed first, followed by sport-specific fields.
+The *Profile* tab displays information about the athlete's medical details. This tab is organized in sections by sport, with each section having text areas or text fields specific to the classification report compiled by classifiers in each sport. In the following table, the general fields are listed first, followed by sport-specific fields.
 
 | **Field**                                   | **Format**                | **Comments**                                      |
 | ------------------------------------------- | ------------------------- | ------------------------------------------------- |

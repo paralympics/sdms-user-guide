@@ -41,13 +41,13 @@ A comprehensive table of all search options follows.
 
 PDF reports are printed in landscape format, with a set number of columns (6-8 depending on the sport) when you click the *PDF Report* button. The report is also timestamped and verified with the official logos of IPC and SDMS.
 
-From the left, each row includes personal data – SDMS ID, family name, given name, gender, date of birth – the athlete’s current class in each of the major class groups, the class status, and the year of review. If the athlete is in different classes for different events and/or disciplines, this is also shown next to the class name.
+From the left, each row includes personal data – SDMS ID, family name, given name, gender, date of birth – the athlete's current class in each of the major class groups, the class status, and the year of review. If the athlete is in different classes for different events and/or disciplines, this is also shown next to the class name.
 
 Athletes with Guide as typed are simply listed with ‘Guide’ next to personal data, and no classification data is loaded.
 
-If the tickboxes of classification profile data is included in the report, each additional field is printed on a separate row below the personal and classification data. The field name is printed in italics below the gender column, and the field content below the class data.
+If the checkboxes of classification profile data are included in the report, each additional field is printed on a separate row below the personal and classification data. The field name is printed in italics below the gender column, and the field content below the class data.
 
-If an athlete is registered with two or more current classes in the same event type, an error message is printed in red below the athlete’s row.
+If an athlete is registered with two or more current classes in the same event type, an error message is printed in red below the athlete's row.
 
 # Excel Export
 

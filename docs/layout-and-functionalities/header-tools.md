@@ -35,13 +35,13 @@ Currently, six main sections divide the application, they are:
 | Athletes                | Athletes/Guides registration, classification, doping, duplicate control & handling                                                                 |
 | Licenses & Invoices     | License packages, license overview, invoices, license cards                                                                                        |
 | Calendar Management     | Internal IPC Sports Calendar and officials database                                                                                                |
-| IPC Online Entry System | Manage inscription of athletes to sanctined competitions                                                                                           |
+| IPC Online Entry System | Manage inscription of athletes to sanctioned competitions                                                                                           |
 | IPC Uniform Inspection  | Handles the upload and review process of NPC team uniforms for upcoming major events according to the manufacturer guidelines published by the IPC |
 | Reports & Downloads     | Classification and license reports                                                                                                                 |
 
 # Alternative Menu
 
-There is also the option of clicking any of the icons on the home page to acces the any of the available SDMS modules.
+There is also the option of clicking any of the icons on the home page to access the any of the available SDMS modules.
 
 <figure>
 <img class="screenshot" src="_img/figures/2.7-alternative-menu.png" alt="Alternative Menu">

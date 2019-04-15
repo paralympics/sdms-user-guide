@@ -32,7 +32,7 @@ Each NPC obtains one (1) SDMS account (primary user) to access all athletes in a
 
 #### How To: Apply for an SDMS NPC account
 
-1. Download the NPC Account Request Form for SDMS. The recent version is attached to this document’s appendix.
+1. Download the NPC Account Request Form for SDMS. The recent version is attached to this document's appendix.
 2. For the primary user, tick ‘no change’ if the user remains the same, ‘update’ for a change of email address or ‘new/replace’ for replace the responsible person.
 3. For a sport-specific account, insert the sport(s) and tick ‘new/replace’.
 4. Get the document signed by the president or secretary general of the NPC and send it back to the SDMS Administrator as indicated on the form.
@@ -82,7 +82,7 @@ However, the user can re-open his account on his own by using the password reset
 
 1. Click on **I forgot my password** or use the menu bar **User Management > Password Reset**.
 2. Fill out the form by inserting your username and email address which had been registered with your account.
-3. After submission, you receive an automatically generated email with a link to allow you to reset your password (Figure 2.3). Check your spam folder if can’t find the message in your inbox.
+3. After submission, you receive an automatically generated email with a link to allow you to reset your password (Figure 2.3). Check your spam folder if you cannot find the message in your inbox.
 4. Once you click the link, your web browser will open with a page where you can input your new password (Figure 2.4). Please note that this page will expire after 15 minutes.
 5. You will then be redirected to the SDMS login page, and you may now enter the application with the new password.
 
@@ -98,4 +98,4 @@ However, the user can re-open his account on his own by using the password reset
 
 Passwords are stored encrypted. That means that no one, even not the SDMS Administrator can read out your password. Same security standard is applied to other sensible information, such as medical forms uploaded as PDF.
 
-SDMS logs you out after a certain set time (10-60 minutes) of inactivity. This counter applies to each window or tab of your web browser independently from each other; but once your session is deleted in one of these tabs, your access in all of them is denied unless you relogin. That shall reduce the risk that a stranger with access to your terminal manipulates the data through your account with your knowledge. Especially in a public environment, it is highly recommended to click **Logout** when you finished your work in SDMS.
+SDMS logs you out after a certain set time (10-60 minutes) of inactivity. This counter applies to each window or tab of your web browser independently from each other; but once your session is deleted in one of these tabs, your access in all of them is denied unless you login again. That shall reduce the risk that a stranger with access to your terminal manipulates the data through your account with your knowledge. Especially in a public environment, it is highly recommended to click **Logout** when you finished your work in SDMS.

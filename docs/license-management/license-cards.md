@@ -1,13 +1,13 @@
 # License Cards
 
-IPC issues license and ID cards through SDMS, for use as proof of identification at competitions and at other IPC sanctioned events. The license card is particularly important for major competitions where licenses are required for entry, and is valid for the length of the season in conjunction with an ID card. The ID card, which also includes the athlete’s photo, is valid for four (4) years after the date of issue. New cards can be issued at any time, as long as the athlete is licensed in a currently running season.
+IPC issues license and ID cards through SDMS, for use as proof of identification at competitions and at other IPC sanctioned events. The license card is particularly important for major competitions where licenses are required for entry, and is valid for the length of the season in conjunction with an ID card. The ID card, which also includes the athlete's photo, is valid for four (4) years after the date of issue. New cards can be issued at any time, as long as the athlete is licensed in a currently running season.
 
 <figure>
     <img class="license-cards center" src="_img/figures/5.5-athlete-id-card.png" alt="Sample athlete ID card">
     <figcaption>Figure 5.5: Sample athlete ID card</figcaption>
 </figure>
 
-Sample pictures of the license and ID cards are shown in Figures 5.5 and 5.6. The standard personal information such as name, NPC, gender and date of birth are included on both; the ID card includes a photograph and the dates of issue and expiry, while the license card includes details on the sport the athlete is licensed to compete and the timeframe of validity for the license.
+Sample pictures of the license and ID cards are shown in Figures 5.5 and 5.6. The standard personal information such as name, NPC, gender and date of birth are included on both; the ID card includes a photograph and the dates of issue and expiry, while the license card includes details on the sport the athlete is licensed to compete and the time frame of validity for the license.
 
 <figure>
     <img class="license-cards center" src="_img/figures/5.6-athlete-license-card.png" alt="Sample athlete license card">

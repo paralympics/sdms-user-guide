@@ -34,13 +34,13 @@ Reasons for an error are manifold, the most common errors are
 - The field value has not the right content or format (see [Data Fields](layout-and-functionalities/data-fields.md)).
 - An essential data set (like an athlete) is attempted to be deleted although other essential data sets (like licenses, results, or records) are associated.
 - User credentials were incorrect on login attempt (see [Security and Passwords](layout-and-functionalities/access.md#security-and-passwords)).
-  In the data set detail pages, the values that the user changed or included are stored from the previous submission, except file selections from the user’s local terminal for security reasons.
+  In the data set detail pages, the values that the user changed or included are stored from the previous submission, except file selections from the user's local terminal for security reasons.
 
 Most of the cases can be resolved by the user reading and applying the instructions of the error message. When an unclear or cryptic error message appears, please contact the SDMS Administrator for explanation and support to fix the issue.
 
 ## Warning
 
-A yellow warning message is displayed when the user’s action could cause database integrity issues. Usually, the user’s action is not carried out.
+A yellow warning message is displayed when the user's action could cause database integrity issues. Usually, the user's action is not carried out.
 
 <figure>
     <img src="_img/inline/flash-message-warning.png" alt="Flash message for warning" class="screenshot">

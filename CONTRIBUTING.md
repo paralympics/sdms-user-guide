@@ -50,7 +50,7 @@ Replace <name-of-branch> with the name of the branch you created in step 3.
 
 **6. Submit your changes for review**
    
-When you go to the repository on GitHub, there will be a `Compare & pull request` button. Click that button to compare changes across the two branches to analyze if your changes will be automatically merged. 
+When you go to the repository on GitHub, there will be a `Compare & pull request` button. Click that button to compare changes across the two branches to analyse if your changes will be automatically merged. 
 
 <figure>
     <img class="github-screenshot center" src="_img/inline/github-compare-and-pull-request.png" alt="Compare">

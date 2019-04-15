@@ -220,14 +220,9 @@ img.license-cards {
 img.github-screenshot{
   max-height: 275px;
   /* box-shadow */
-  -webkit-box-shadow: none;
-  -moz-box-shadow: none;
-  box-shadow: none;
-  /* border-radius */
-  border-radius: none;
-  -moz-border-radius: none;
-  -webkit-border-radius: none;
-  border: none;
+  box-shadow: 0;
+  /* border */
+  border: 0;
 }
 
 .asterisk {

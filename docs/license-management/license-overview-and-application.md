@@ -2,7 +2,7 @@
 
 The licensing of individual athletes and guides is completed from this screen, which is designed as a step-by-step process to guide NPC users through the process of licensing. Several participants within the same sport may be licensed at once; however, only within one particular sport in one license process. The licensing of guides of blind athletes is determined by the rules in each particular sport, but in principle guides are licensed using the same process and for the same fees as for licensing Paralympic athletes, and the word athlete will be used for simplicity from here on.
 
-This screen also functions as a search form for already existing licencss, in case users want an overview of an NPC’s licensed athletes within a sport or needs information about the status of one particular participant or application.
+This screen also functions as a search form for already existing licenses, in case users want an overview of an NPC’s licensed athletes within a sport or needs information about the status of one particular participant or application.
 
 ## Available Athletes, Status and Process
 
@@ -23,7 +23,7 @@ Within a season, athletes are not removed from this section. If the athlete is f
 
 ## License Search Form
 
-The following criteria are available from the section’s search form:
+The following criteria are available from the section's search form:
 
 | **Field**            | **Format**                       | **Comments**                                                                                                            |
 | -------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -47,13 +47,13 @@ After completing the search from and clicking Search, the matching athletes appe
 
 With this search, users can perform a number of actions relating to the license status of the searched athletes. NPCs and IPC sport officers (if an NPC requests assistance) can begin the application process by selecting athletes. The application process will be described in detail in [License Renewal](license-management/license-renewal.md). Also, the *License History* button allows for access to a page with all status changes of a particular athlete, with date and the username responsible for each change listed.
 
-Additionally, IPC sport officers have three extra buttons available to change the status of a license application: *Freeze*, *Unfreeze* and *Update*. These can all be applied to several athletes at a time. The Freezing and Unfreezing buttosn are for moving athletes between the frozen and regular paths of license application: on clicking, a dialogue box is brought up showing the changes between the paths and with a text area for entering any comments.
+Additionally, IPC sport officers have three extra buttons available to change the status of a license application: *Freeze*, *Unfreeze* and *Update*. These can all be applied to several athletes at a time. The Freezing and Unfreezing buttons are for moving athletes between the frozen and regular paths of license application: on clicking, a dialogue box is brought up showing the changes between the paths and with a text area for entering any comments.
 
 The date of validity of the license can be changed by clicking the *Update* button: again, a comment field is provided for entry of reasons for the update, if necessary.
 
 ## Selecting and Controlling Teams
 
-This section describes steps 2-4 in the license application process. After obtaining a list of athletes by choosing the correct criteria (category, sport, and season), users select the athletes to be licensed by clicking anywhere in the athlete’s search row and then clicking the *Add to My Team* button (step 2). This updates the counter of athletes in the *Control Your Team* section (step 3 and colours all selected athletes in red. There is also a *Clear My Team* button, which removes all selected athletes and returns to the start of step 2; another option to remove athletes is described in the following section, License Application Completion.
+This section describes steps 2-4 in the license application process. After obtaining a list of athletes by choosing the correct criteria (category, sport, and season), users select the athletes to be licensed by clicking anywhere in the athlete's search row and then clicking the *Add to My Team* button (step 2). This updates the counter of athletes in the *Control Your Team* section (step 3 and colours all selected athletes in red. There is also a *Clear My Team* button, which removes all selected athletes and returns to the start of step 2; another option to remove athletes is described in the following section, License Application Completion.
 
 ### Notes on Adding Athletes
 
@@ -83,10 +83,10 @@ Clicking the row updates the counter of Licenses from selected packages. If enou
     <figcaption>Figure 5.4: Step 6, sufficient packages have been selected</figcaption>
 </figure>
 
-The final step of the process is completed by clicking the *Confirm & License* button. As long as enough packages have been selected to cover the required amount, the licenses will then be allotted by SDMS automatically. Each license is assigned an ID for use on the license card, with season, sport, nation and a random 8-digit number. The license is also associated with the correct license package, and the current date is stored as the license’s validity date.
+The final step of the process is completed by clicking the *Confirm & License* button. As long as enough packages have been selected to cover the required amount, the licenses will then be allotted by SDMS automatically. Each license is assigned an ID for use on the license card, with season, sport, nation and a random 8-digit number. The license is also associated with the correct license package, and the current date is stored as the license's validity date.
 
 > [!DANGER]
-> Assigning a license from a package to an athlete is binding – it is not possible to cancel an athlete’s license afterwards.
+> Assigning a license from a package to an athlete is binding – it is not possible to cancel an athlete's license afterwards.
 
 ## License Application Completion - Sports with Individual Licensing
 
@@ -94,6 +94,6 @@ In sports with individual licensing, the payment must be organized through this 
 
 By default, the invoice is issued to the official name of the NPC registered in SDMS. If a different organisation is to be invoiced or a postal address is required on the invoice, the user may supply the name and address in four lines provided on this form.
 
-The license application is completed and an invoice produced by clicking the *Confirm Application* button. The program then adds the details of the athlete’s license and payment information into SDMS’ data repository, and a confirmation message is displayed to the user.
+The license application is completed and an invoice produced by clicking the *Confirm Application* button. The program then adds the details of the athlete's license and payment information into SDMS’ data repository, and a confirmation message is displayed to the user.
 
 The user can then print off the invoice and process the payment with their bank if necessary. The status of the license is set to *Pending* until IPC Finance confirms the payment from the *Invoices / Payment History* screen, where they will change the status to *Active*.

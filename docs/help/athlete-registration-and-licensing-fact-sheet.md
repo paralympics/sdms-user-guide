@@ -35,9 +35,9 @@ The following matrix outlines by ranking type the licensing and sport class stat
     <small>*by relevant competition (Start Date – End Date of Qualification Period)</small>
 </p>
 
-*If a licensed athlete with a New “N” sport class status is internationally classified and receives a Review “R” or Confirmed “C” sport class status **prior to the end of the season**, the athlete’s performances during that season will be included in the official rankings.*
+*If a licensed athlete with a New “N” sport class status is internationally classified and receives a Review “R” or Confirmed “C” sport class status **prior to the end of the season**, the athlete's performances during that season will be included in the official rankings.*
 
-*If a licensed athlete with a New “N” sport class status is internationally classified and receives a Review “R” or Confirmed “C” sport class status prior to the end of the qualification period, the athlete’s performances during that qualification period will be included in the Minimum Qualification Standard (MQS) List for the relevant competition.*
+*If a licensed athlete with a New “N” sport class status is internationally classified and receives a Review “R” or Confirmed “C” sport class status prior to the end of the qualification period, the athlete's performances during that qualification period will be included in the Minimum Qualification Standard (MQS) List for the relevant competition.*
 
 *Other World Para Sport rules and regulations might have additional impact on the recognition of results, e.g. re-classification of an athlete into a new class. It is recommended to consult the specific rules of each sport for these additional conditions.*
 
@@ -58,7 +58,7 @@ Athletes must have a licence and have a Confirmed “C” or Review “R” fixe
     <small>(R): Review “R” fixed date sport class status</small>
 </p>
 
-*If a record breaking performance is set by an athlete with a New “N” or Review “R” sport class status at a World Para Sport Recognised competition, the UNPC has six (6) weeks in Athletics, Powerlifting, Shooting, or Swimming, respectively, after the end of the competition to present the athlete for an international classification assessment. The record breaking performance will be recognised if the outcome of the athlete’s classification assessment validates the original sport class and he/she is allocated a Confirmed “C” or Review “R” fixed date sport class status.*
+*If a record breaking performance is set by an athlete with a New “N” or Review “R” sport class status at a World Para Sport Recognised competition, the NPC has six (6) weeks in Athletics, Powerlifting, Shooting, or Swimming, respectively, after the end of the competition to present the athlete for an international classification assessment. The record breaking performance will be recognised if the outcome of the athlete's classification assessment validates the original sport class and he/she is allocated a Confirmed “C” or Review “R” fixed date sport class status.*
 
 ### Classification
 

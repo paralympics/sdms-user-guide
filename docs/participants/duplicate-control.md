@@ -18,4 +18,4 @@ The criteria work in conjunction – the search only returns items that are equa
 
 Clicking the Search button opens a new tab in the browser with a PDF of the matches. Except for sport, all personal data which can be searched is also displayed here, along with the career status of the athlete.
 
-If you find a duplicate entry, please report it as soon as possible to the relveant IPC Sport or to the IPC database administrators.
+If you find a duplicate entry, please report it as soon as possible to the relevant IPC Sport or to the IPC database administrators.
