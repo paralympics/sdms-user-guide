@@ -5,7 +5,7 @@
 <h1 align="center">Sport Data Management System User Guide</h1>
 <h2 align="center">Version A</h2>
 
-This is the living, breathing and hopefully continuously evolving documentation for one of the International Paralympic Committee's applications, Sport Data Management System (SDMS). If you find a problem or there is something that you would like to dispute, please check out our [Contributing Guide](CONTRIBUTING.md).
+This is the hopefully continuously evolving documentation for one of the International Paralympic Committee's applications, Sport Data Management System (SDMS). If you find a problem or there is something that you would like to change, please check out our [Contributing Guide](CONTRIBUTING.md).
 
 ## What is SDMS?
 
