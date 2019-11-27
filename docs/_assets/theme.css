@@ -231,6 +231,12 @@ img.github-screenshot{
   color: var(--theme-color);
 }
 
+.instructions {
+  font-weight: bold;
+  color: var(--theme-color);
+  text-align: center;
+}
+
 .footnote {
   text-align: right;
   color: var(--theme-color);
