@@ -1,93 +1,82 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>SDMS User Guide</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta
-      name="description"
-      content="IPC Sport Data Management System User Guide"
-    />
-    <meta
-      name="viewport"
-      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
-    />
-    <link
-      rel="shortcut icon"
-      href="_img/favicon.ico"
-      type="image/ico"
-      sizes="16x16"
-    />
-    <!-- Theme -->
-    <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
-    <link rel="stylesheet" href="_assets/theme.css" />
 
-  </head>
-  <body>
-    <div id="app"></div>
-    <script>
+<head>
+  <meta charset="UTF-8" />
+  <title>SDMS User Guide</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="IPC Sport Data Management System User Guide" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+  <link rel="shortcut icon" href="_img/favicon.ico" type="image/ico" sizes="16x16" />
+  <!-- Theme -->
+  <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css" />
+  <link rel="stylesheet" href="_assets/theme.css" />
 
-      window.$docsify = {
-        name:
-          '<img src="_img/ipc_symbol_100.jpg" alt="IPC Logo" class="sidebar-logo center">',
-        repo: "https://github.com/paralympics/sdms-user-guide",
-        loadSidebar: true,
-        loadNavbar: false,
-        maxDepth: 2,
-        subMaxLevel: 2,
-        auto2top: true,
-        autoHeader: false,
-        homepage:
-          "https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/README.md",
-        notFoundPage: "_404.md",
-        alias: {
-          "/.*/_sidebar.md": "/_sidebar.md",
-          ".*?/CONTRIBUTING":
-            "https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/CONTRIBUTING",
-          ".*?/CODE_OF_CONDUCT":
-            "https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/CODE_OF_CONDUCT"
-        },
-        search: {
-          paths: "auto",
-          placeholder: "Search",
-          noData: "No Results.",
-          hideOtherSidebarContent: true
-        },
-        "flexible-alerts": {
-          style: "callout"
-        },
-        plugins: [
-          function(hook) {
-            var footer = [
-              "<footer>",
-              '<span>&copy;2019 <a href="https://www.paralympic.org/" target="_blank">International Paralympic Committee</a></span>',
-              "</footer>"
-            ].join("");
+</head>
 
-            hook.afterEach(function(html) {
-              return html + footer;
-            });
-          }
-        ],
-      };
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      name: 'User Guide',
+      logo: '/_img/ipc_symbol_100.jpg',
+      repo: "https://github.com/paralympics/sdms-user-guide",
+      loadSidebar: true,
+      loadNavbar: false,
+      maxDepth: 2,
+      subMaxLevel: 2,
+      auto2top: true,
+      autoHeader: false,
+      homepage: "https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/README.md",
+      notFoundPage: "_404.md",
+      alias: {
+        "/.*/_sidebar.md": "/_sidebar.md",
+        ".*?/CONTRIBUTING": "https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/CONTRIBUTING",
+        ".*?/CODE_OF_CONDUCT": "https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/CODE_OF_CONDUCT"
+      },
+      search: {
+        paths: "auto",
+        placeholder: "Search",
+        noData: "No Results.",
+        hideOtherSidebarContent: true
+      },
+      "flexible-alerts": {
+        style: "callout"
+      },
+      plugins: [
+        function (hook) {
+          var footer = [
+            "<footer>",
+            '<span>&copy;2019 <a href="https://www.paralympic.org/" target="_blank">International Paralympic Committee</a></span>',
+            "</footer>"
+          ].join("");
 
-      if (typeof navigator.serviceWorker !== 'undefined') {
-        navigator.serviceWorker.register('_assets/sw.js')
-      }
-    </script>
+          hook.afterEach(function (html) {
+            return html + footer;
+          });
+        }
+      ],
+    };
 
-    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('_assets/sw.js')
+    }
+  </script>
 
-    <!-- image zoom -->
-    <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 
-    <!-- search -->
-    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <!-- image zoom -->
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
 
-    <!-- pagination -->
-    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- search -->
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 
-    <!-- flexible alerts -->
-    <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
-  </body>
+  <!-- pagination -->
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+  <!-- flexible alerts -->
+  <script src="//unpkg.com/docsify-plugin-flexible-alerts"></script>
+</body>
+
 </html>
