@@ -96,6 +96,28 @@ After an athlete has been registered, there may be reason to change the details,
    
 4. If you change the name of the athlete, please bear in mind that changes only apply to the field you enter, i.e., a change of passport name will not change the preferred name,which is what the IPC will use in official result lists and rankings. Hence, in case of a name change, please change both fields unless there is a specific reason not to (the athlete wishes to be known under the old name but the passport issuing body will only recognise the new name, for example).
 
+## Classification
+
+This section is designed for non-classifier users who wish to have a quick overview of the classes the athlete is eligible for, as well as entering and removing the class of athletes which have not yet been classified by international panels (New class status). More detailed manipulation is possible from [Classification](classification.md).
+
+<figure>
+    <img class="screenshot" src="_img/figures/4.4-summary-of-athlete-classes.png" alt="Summary of athlete's classes">
+    <figcaption>Figure 4.4: Summary of athlete's classes</figcaption>
+</figure>
+
+All current classifications, with sport and class, of the athlete are displayed on this menu, along with the status of the athlete within the class. The last row of the table allows for entering of a new sport and/or class; again, this will only be accepted if the athlete is not already classified by international panels. If the registering user does not know which class the athlete will compete in, they may enter the pseudo-class N/A and leave further classification to other users with competence in that field.
+
+For any further classification specific issues, please refer to IF rules or the IPC Medical and Scientific department.
+
+## Career Status Updates
+
+This tab is for modification of the *career status* field from the athlete details page. As this is rarely modified and causes severe changes in the database treatment of the athlete, this is treated apart from the athletes’ other data. The change is performed through button clicks, and only those buttons where the status is not equal to that of the current athlete are clickable; e.g. an active athlete can only be changed to retired or historical.
+
+All historic changes to status are also displayed here, along with time stamp and username of the responsible user.
+
+> [!DANGER]
+> If an athlete is set to the career status *Historical*, they will disappear to all NPC users from all outputs (such as classification data, licensing data, etc.) except result archives. Athletes that have been *Retired* for at least four years will automatically be set to *Historical*.
+
 ## Biography
 
 <figure>
@@ -109,29 +131,7 @@ The biography tab is designed to be easily modifiable in case fields need to be 
 
 Fields are labelled in the left-hand column and a more detailed explanation, if necessary, in the right-hand column.
 
-### Career Status Updates
-
-This tab is for modification of the *career status* field from the athlete details page. As this is rarely modified and causes severe changes in the database treatment of the athlete, this is treated apart from the athletes’ other data. The change is performed through button clicks, and only those buttons where the status is not equal to that of the current athlete are clickable; e.g. an active athlete can only be changed to retired or historical.
-
-All historic changes to status are also displayed here, along with time stamp and username of the responsible user.
-
-> [!DANGER]
-> If an athlete is set to the career status *Historical*, they will disappear to all NPC users from all outputs (such as classification data, licensing data, etc.) except result archives. Athletes that have been *Retired* for at least four years will automatically be set to *Historical*.
-
-### Classification
-
-This section is designed for non-classifier users who wish to have a quick overview of the classes the athlete is eligible for, as well as entering and removing the class of athletes which have not yet been classified by international panels (New class status). More detailed manipulation is possible from [Classification](classification.md).
-
-<figure>
-    <img class="screenshot" src="_img/figures/4.4-summary-of-athlete-classes.png" alt="Summary of athlete's classes">
-    <figcaption>Figure 4.4: Summary of athlete's classes</figcaption>
-</figure>
-
-All current classifications, with sport and class, of the athlete are displayed on this menu, along with the status of the athlete within the class. The last row of the table allows for entering of a new sport and/or class; again, this will only be accepted if the athlete is not already classified by international panels. If the registering user does not know which class the athlete will compete in, they may enter the pseudo-class N/A and leave further classification to other users with competence in that field.
-
-For any further classification specific issues, please refer to IF rules or the IPC Medical and Scientific department.
-
-### Data Sheet
+## Data Sheet
 
 From this tab, users may request a dynamically generated data sheet in PDF format for a quick overview of the participant's career and all information stored in SDMS. All fields included in the data sheet are also accessible from their respective menus. Therefore, they will not be described in this section, but only listed with a reference to the section where information may be found.
 
@@ -144,7 +144,7 @@ From this tab, users may request a dynamically generated data sheet in PDF forma
 | **Records**             | All record breaking achievements tabulated. <br>**Columns:** Record type, date, event, class, performance, location                                                                                                                                                                                                                    |
 | **Results**             | All achievements registered in SDMS tabulated and grouped by competition (in blue with name, location and date). <br>**Columns:** Date, event name, eligible classes, rank, performance(s), result status, class competed in, registered class at day of performance, registered class at end of season. Team results are also listed. |
 
-### Equipment
+## Equipment
 
 This tab is available for athletes to register personal competition equipment they might use in Para sport competitions.
 
