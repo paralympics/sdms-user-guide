@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/docs/_img/ipc_logo_500.jpg" height="250px" alt="International Paralympic Committee Logo">
+    <img src="https://raw.githubusercontent.com/paralympics/sdms-user-guide/master/docs/_img/ipc-emblem-centre.png" height="250px" alt="International Paralympic Committee Logo">
 </p>
 
 <h1 align="center">Sport Data Management System User Guide</h1>

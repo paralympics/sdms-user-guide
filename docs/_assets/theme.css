@@ -1,10 +1,11 @@
 :root {
-  --theme-color: #008542; /* ipc-green */
-  --theme-color-dark: #00569f; /* ipc-blue */
-  --ipc-red: #d11c3f;
+  /* colours are from new IPC brand guidelines. */
+  --theme-color: #00a651; /* paralympic green */
+  --theme-color-dark: #0081c8; /* paralympic blue */
+  --theme-color-red: #ee334e; /* paralympic blue */
 
-  --text-color-base: #2e2e46;
-  --text-color-secondary: #646473;
+  --text-color-base: #242e35; /* paralympic black */
+  --text-color-secondary: #92969a; /* paralympic grey */
   --text-color-tertiary: #81818e;
 }
 
@@ -114,7 +115,7 @@ body .sidebar-toggle span:nth-child(3) {
 
 /****** Content ******/
 
-.table-header{
+.table-header {
   color: #008542;
   font-weight: bold;
 }
@@ -217,7 +218,7 @@ img.license-cards {
   border: 0px solid #000000;
 }
 
-img.github-screenshot{
+img.github-screenshot {
   max-height: 275px;
   /* box-shadow */
   box-shadow: 0;

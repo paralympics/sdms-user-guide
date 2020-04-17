@@ -16,11 +16,11 @@
 </head>
 
 <body>
-  <div id="app"></div>
+  <div id="app" role="application"></div>
   <script>
     window.$docsify = {
       name: 'User Guide',
-      logo: '/_img/ipc_symbol_100.jpg',
+      logo: '/_img/ipc-symbol.png',
       repo: "https://github.com/paralympics/sdms-user-guide",
       loadSidebar: true,
       loadNavbar: false,
@@ -46,9 +46,14 @@
       },
       plugins: [
         function (hook) {
+          var currentYear = new Date().getFullYear();
           var footer = [
             "<footer>",
-            '<span>&copy;2019 <a href="https://www.paralympic.org/" target="_blank">International Paralympic Committee</a></span>',
+            '<span role=\"contentinfo\">&copy;',
+            '&nbsp', 
+            currentYear,
+            '&nbsp', 
+            '<a href="https://www.paralympic.org/" target="_blank">International Paralympic Committee</a></span>',
             "</footer>"
           ].join("");
 
