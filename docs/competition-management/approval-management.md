@@ -70,9 +70,11 @@ Once an NPC has requested to host an IPC Approved competition, they may addition
 
 ## World Para Powerlifting
 
-World Para Powerlifting (WPPO) have implemented a process through SDMS for NPCs and/or National Federations (NF) to apply for WPPO approved competitions. This system will also be used for NPCs/NFs to submit an expression of interest to host international classification and educational courses concurrently with the competition.
+World Para Powerlifting (WPPO) have implemented a process through SDMS for NPCs and/or National Federations (NF) to apply for WPPO approved competitions(National, Invitational Competitions) and WPPO sanctioned World Cups. This system will also be used for NPCs/NFs to submit an expression of interest to host international classification and educational courses concurrently with the competition.
 
 All applications for an approved competition must be fully completed and submitted to **WPPO at least three (3) months (ninety  \[90\] days) prior to the start of the competition** for the application to be considered.
+
+**And for World Cup at least one (1) year (eighteen \[18\] months) prior to the start of the competition for the application to be considered.**
 
 ### Submitting a Competition Request
 
