@@ -120,7 +120,7 @@ The NPC/NF must also upload:
 Upon completion of the required information, when the competition is organised by a local organising committee (LOC) other than the NPC, the application must still be acknowledged and endorsed by the respective NPC.
 
 <figure>
-    <img src="_img/figures/6.4-competition-approval-wppo-form.png" alt="WPPO Competition Approval Requests - Form">
+    <img class="screenshot" src="_img/figures/6.4-competition-approval-wppo-form.png" alt="WPPO Competition Approval Requests - Form">
     <figcaption>Figure 6.4: WPPO Competition Approval Requests - Form</figcaption>
 </figure>
 
