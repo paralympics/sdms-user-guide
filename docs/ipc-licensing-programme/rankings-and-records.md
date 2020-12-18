@@ -8,7 +8,7 @@ The IPC publishes up to four types of ranking lists for each sport. An athlete m
   This list includes non-classified, but licensed athletes as well.
 - Minimum Qualification Standard (MQS) lists for particular competitions; for more information and specifications, the respective qualification criteria documents shall be consulted.
 
-In general, an athlete requires a valid license before start of an arbitrary competition for recognition of his performances. Additionally, he should be internationally classified so that his performance appears in the official rankings. Rules and regulations might vary in each season so that the related licensing fact sheet has to be consulted.
+In general, an athlete requires a valid license before start of an arbitrary competition for recognition of his performances. Additionally, he should be internationally classified so that his performance appears in the official rankings. Rules and regulations might vary in each season so that the related licensing regulations have to be consulted.
 
 For recognition of a record breaking performance, the general criteria as for rankings must be fulfilled. Only if a performance is considered for rankings, it might be validated as new record under the event and class. The sport-specific rule book might contain further policies to be applied with regard to classification status, doping control, competition level, or record approval process.
 

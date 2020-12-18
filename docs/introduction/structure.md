@@ -4,7 +4,7 @@ This section describes the general objective of this manual, its different exist
 
 [SDMS Website, Layout and Functionalities](layout-and-functionalities/access.md) explains how to get an account for SDMS, how to access this central IPC database, the navigation through the application, the menu bars, general usages of search forms, and buttons appearing on several pages. Please read this chapter if you are not experienced with high security applications in general or with SDMS in specific.
 
-General requirements and regulations of registration and licensing are outlined in [IPC Licensing Programme](ipc-licensing-programme/intention.md) reflecting the cover letter and fact sheets which are annually sent around to the IPC registered main contact persons of the NPCs.
+General requirements and regulations of registration and licensing are outlined in [IPC Licensing Programme](ipc-licensing-programme/intention.md) reflecting the cover letter and regulations which are annually sent around to the IPC registered main contact persons of the NPCs.
 
 Each main menu item of SDMS is considered in the following chapters:
 

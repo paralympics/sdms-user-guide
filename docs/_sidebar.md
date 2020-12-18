@@ -55,9 +55,7 @@
 
 - Help
   - [Glossary](help/glossary.md)
-  - [Athlete Reg. & Licensing Fact Sheet](help/athlete-registration-and-licensing-fact-sheet.md)
-  <!-- - [Troubleshooting](help/troubleshooting.md) -->
-  <!-- - [FAQs](help/faqs.md) -->
+  - [Athlete Registration & Licensing Regulations](help/athlete-registration-and-licensing-regulations.md)
 
 - **Contributing**
   - [Contributing Guide](CONTRIBUTING.md)
