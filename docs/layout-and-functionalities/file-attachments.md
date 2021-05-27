@@ -22,4 +22,4 @@ The photo must adhere to the following specifications:
 
 If the photo is submitted in hard copy, minimum size of the photo must be 35mm x 45mm and include the name and the ID, if known, of the individual on the back.
 
-Photos are only used for license cards. Hence, any uploaded photo is automatically resized to a maximum height of 256 px and a maximum width of 176 px. The user does not need to resize the photo in advance.
+Photos are used for license cards. Hence, any uploaded photo is automatically resized to a maximum height of 256 px and a maximum width of 176 px. The user does not need to resize the photo in advance.
