@@ -4,10 +4,6 @@
 
 As an online application, the IPC Sport Data Management System is accessible on the Internet by inserting the following URL in the browser of your choice
 
-[http://www.paralympic.org/sdms](http://www.paralympic.org/sdms)
-
-You can also use the dedicated database server URL (as of December 2016, the www.paralympic.org domain redirects to this)
-
 [https://db.ipc-services.org/sdms](https://db.ipc-services.org/sdms)
 
 <figure>
