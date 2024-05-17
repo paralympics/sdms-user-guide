@@ -4,7 +4,7 @@ Each athlete must be registered and licensed before they are eligible to compete
 
 ## Details
 
-Users must navigate the Registration & Update search screen before they can modify any participant details. By clicking on a row in the grid or on the *New Athlete/Guide* button,users reach the details tab with fields described in the following table.
+Users must navigate the Athlete Registration search screen/table before they can modify any participant details. By clicking on a row in the grid or on the *New Athlete/Guide* button,users reach the details tab with fields described in the following table.
 
 | **Field**                                                            | **Format**                                                               | **Searchable**      | **Comments**                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -88,7 +88,7 @@ After an athlete has been registered, there may be reason to change the details,
     <figcaption>Figure 4.2: Name change dialogue box</figcaption>
 </figure>
 
-1. Search for the athlete in question from the Registration & Update search form, and click the row in the search grid corresponding to the athlete to enter the athlete details’ page.
+1. Search for the athlete in question from the Athlete Registration search form/table, and click the row in the search grid corresponding to the athlete to enter the athlete details’ page.
    
 2. The data stored about the athlete will appear in the form. Edit the incorrect or missing details and click Save.
 
@@ -116,7 +116,7 @@ This tab is for modification of the *career status* field from the athlete detai
 All historic changes to status are also displayed here, along with time stamp and username of the responsible user.
 
 > [!DANGER]
-> If an athlete is set to the career status *Historical*, they will disappear to all NPC users from all outputs (such as classification data, licensing data, etc.) except result archives. Athletes that have been *Retired* for at least four years will automatically be set to *Historical*.
+> If an athlete is set to the career status *Historical*, they will disappear to all NPC users from all outputs (such as classification data, licensing data, etc.) except result archives. However, NPC users can include historical athletes in their search parameters by clicking on the **include historical athletes** checkbox (in the Athlete Registration search table of the Athletes module). Athletes that have been *Retired* for at least four years will automatically be set to *Historical*.
 
 ## Biography
 

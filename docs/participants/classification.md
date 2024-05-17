@@ -6,8 +6,6 @@ The section is organized by athlete, with a specifically designed search form fo
 
 Employees in World Para sports are authorized to modify these data, while classifiers, NPCs and LOCs have read-only access. NPCs are also solely allowed to enter an athlete in a *New* class as they wait for their athletes to be classified, but this must be done in the registration section. NPCs can additionally upload some forms on behalf of their athlete, e.g. medical diagnostic forms and equipment designs. These uploads must be done from the *Documentation* tab of the athlete's classification detail page, by clicking *Choose File* in the correct field and uploading from their own computer system.
 
-Only active athletes are displayed in this section. If an athlete retires, the classification data is still stored, but inaccessible from the web application.
-
 ## Search form
 
 In addition to the fields displayed on the athlete search grid, the grid also shows the sport and class of each athlete. The table below lists the possible search fields; none are compulsory, by default the grid displays all athletes which the user can access. Only active athletes are displayed in this search; if a user wishes to access information of retired athletes, they must change the career status (see [Career Status Updates](participants/registration-and-update.md#career-status-updates)) of the athlete before being able to access information from here.
