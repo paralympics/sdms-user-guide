@@ -1,8 +1,6 @@
-<img class="logo" src="_img/ipc-emblem-centre.jpg" alt="IPC - International Paralympic Committee">
+<img src="_img/ipc-emblem-centre.png" alt="IPC - International Paralympic Committee">
 
-> Sports Data Management System User Guide
-
-> Version A
+<h1 align="center">Sport Data Management System User Guide</h1>
 
 [GitHub](https://github.com/paralympics/sdms-user-guide/)
 [Getting Started](/README.md)
