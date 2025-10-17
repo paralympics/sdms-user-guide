@@ -8,7 +8,7 @@
   - [Historical Background](introduction/historical-background.md)
   - [Prospective Developments](introduction/prospective-developments.md)
 
-- SDMS Website, Layout and Functionalities
+- Access, Layout and Functionalities
 
   - [Access](layout-and-functionalities/access.md)
   - [Header Tools](layout-and-functionalities/header-tools.md)
