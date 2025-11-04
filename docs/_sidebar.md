@@ -56,6 +56,7 @@
 - Help
   - [Glossary](help/glossary.md)
   - [Athlete Registration & Licensing Regulations](help/athlete-registration-and-licensing-regulations.md)
+  - [Multi-Factor Authentication](help/multi-factor-authentication.md)
 
 - **Contributing**
   - [Contributing Guide](CONTRIBUTING.md)
